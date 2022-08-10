@@ -18,7 +18,7 @@ For example, a cohort study recorded a list of symptoms that each participant ex
 - `Symptom`: a __list of symptoms in follow-up [10 symptoms: Fatigue, Headache, Muscle Aches, Breathing Difficulties, Loss Taste/Smell, Joint Pain, Vertigo, Lowering Vision,       Brain Fog, Hair Loss]__ (string).
 
 <center>
-![](/Users/yongzhewang/Desktop/Data Shape (Individual).jpeg)
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Data%20Shape%20(Individual).jpeg)
 </center>
 
 In the ggplot, no matter what kind of plots we make, they are basically composed of two parts: X-axis and Y-axis. __Since we want to create a heatmap for the longitudinal reported symptoms, we set X-axis as__ `Month`__, Y-axis as__ `PTID`__, and filled values for tiles in the heatmap with__ `Experienced.Symptom`. Since we have 10 symptoms and each of them were recorded at 3 different timepoints, we need to work on each symptom first and then __arrange them horizontally__. 
@@ -51,7 +51,7 @@ p_Fatigue <-
 p_Fatigue
 ```
 <center>
-![](/Users/yongzhewang/Desktop/Heatmap (one symptom).jpeg){width=250px}
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Heatmap%20(one%20symptom).jpeg){width=250px}
 </center>
 
 The above is the heatmap for one symptom (fatigue) and we are going to layout details for the code below:
@@ -154,7 +154,7 @@ Layout.Mat <- matrix(c(rep(1:9, each = 8), rep(10, 16)), nrow = 1)
 Layout.Mat
 ```
 <center>
-![](/Users/yongzhewang/Desktop/Layout matrix.jpeg)
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Layout%20matrix.jpeg)
 </center>
 
 To arrange the position of heatmaps, we use the function `grid.arrange()` and pass the command `layout_matrix = Layout.Mat` into it.
@@ -172,7 +172,7 @@ grid.arrange(p_Fatigue,
              layout_matrix = Layout.Mat)
 ```
 <center>
-![](/Users/yongzhewang/Desktop/Heatmap (multiple symptoms).jpeg){width=1500px}
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Heatmap%20(multiple%20symptoms).jpeg){width=1500px}
 </center>
 
 It eventually looks like the above one! __Its actual size (width * height) and resolution should be adjusted when you are going to output it from R.__  
@@ -182,7 +182,7 @@ It eventually looks like the above one! __Its actual size (width * height) and r
 Similar to the dataset on the first part, the only difference is that this time we are going to fill out __numerical values for tiles__ rather than categorical/nominal values. 
 
 <center>
-![](/Users/yongzhewang/Desktop/Data Shape (Aggregated).jpeg){width=1500px}
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Data%20Shape%20(Aggregated).jpeg){width=1500px}
 </center>
 
 This dataset includes 4 variables:
@@ -224,7 +224,7 @@ p_acute_6m <-
 p_acute_6m
 ```
 <center>
-![](/Users/yongzhewang/Desktop/Heatmap (Aggregated).jpeg){width=1500px}
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Heatmap%20(Aggregated).jpeg){width=1500px}
 </center>
 
 All __non-data component settings for heatmaps__ in part 2 are the same as the part 1 except the function `scale_fill_gradientn()`. 
@@ -310,7 +310,7 @@ grid.arrange(p_acute_6m,
              layout_matrix = Layout.Mat)
 ```
 <center>
-![](/Users/yongzhewang/Desktop/Multiple Heatmaps (Aggregated).jpeg){width=1500px}
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Multiple%20Heatmaps%20(Aggregated).jpeg){width=1500px}
 </center>
 
 Eventually, we get the final one!

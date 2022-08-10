@@ -1,0 +1,1501 @@
+PTID,n.symptoms,Month,Experienced Symptom,Symptom
+1A,30,6-month,Yes,Fatigue
+1A,30,12-month,Yes,Fatigue
+1A,30,24-month,Yes,Fatigue
+2A,29,6-month,Yes,Fatigue
+2A,29,12-month,Yes,Fatigue
+2A,29,24-month,Yes,Fatigue
+3A,6,6-month,Yes,Fatigue
+3A,6,12-month,No,Fatigue
+3A,6,24-month,No,Fatigue
+4A,1,6-month,No,Fatigue
+4A,1,12-month,No,Fatigue
+4A,1,24-month,No,Fatigue
+5A,3,6-month,No,Fatigue
+5A,3,12-month,No,Fatigue
+5A,3,24-month,No,Fatigue
+6A,3,6-month,Yes,Fatigue
+6A,3,12-month,No,Fatigue
+6A,3,24-month,No,Fatigue
+7A,9,6-month,No,Fatigue
+7A,9,12-month,No,Fatigue
+7A,9,24-month,No,Fatigue
+8A,29,6-month,Yes,Fatigue
+8A,29,12-month,Yes,Fatigue
+8A,29,24-month,Yes,Fatigue
+9A,19,6-month,No,Fatigue
+9A,19,12-month,Yes,Fatigue
+9A,19,24-month,No,Fatigue
+10A,30,6-month,Yes,Fatigue
+10A,30,12-month,Yes,Fatigue
+10A,30,24-month,Yes,Fatigue
+11A,27,6-month,Yes,Fatigue
+11A,27,12-month,Yes,Fatigue
+11A,27,24-month,Yes,Fatigue
+12A,23,6-month,Yes,Fatigue
+12A,23,12-month,Yes,Fatigue
+12A,23,24-month,Yes,Fatigue
+13A,24,6-month,No,Fatigue
+13A,24,12-month,Yes,Fatigue
+13A,24,24-month,Yes,Fatigue
+14A,1,6-month,No,Fatigue
+14A,1,12-month,No,Fatigue
+14A,1,24-month,No,Fatigue
+15A,7,6-month,No,Fatigue
+15A,7,12-month,No,Fatigue
+15A,7,24-month,No,Fatigue
+16A,11,6-month,No,Fatigue
+16A,11,12-month,No,Fatigue
+16A,11,24-month,Yes,Fatigue
+17A,17,6-month,Yes,Fatigue
+17A,17,12-month,No,Fatigue
+17A,17,24-month,No,Fatigue
+18A,22,6-month,Yes,Fatigue
+18A,22,12-month,Yes,Fatigue
+18A,22,24-month,Yes,Fatigue
+19A,28,6-month,No,Fatigue
+19A,28,12-month,Yes,Fatigue
+19A,28,24-month,Yes,Fatigue
+20A,12,6-month,No,Fatigue
+20A,12,12-month,Yes,Fatigue
+20A,12,24-month,No,Fatigue
+21A,6,6-month,No,Fatigue
+21A,6,12-month,No,Fatigue
+21A,6,24-month,No,Fatigue
+22A,24,6-month,No,Fatigue
+22A,24,12-month,Yes,Fatigue
+22A,24,24-month,Yes,Fatigue
+23A,3,6-month,Yes,Fatigue
+23A,3,12-month,No,Fatigue
+23A,3,24-month,No,Fatigue
+24A,15,6-month,Yes,Fatigue
+24A,15,12-month,No,Fatigue
+24A,15,24-month,No,Fatigue
+25A,23,6-month,Yes,Fatigue
+25A,23,12-month,Yes,Fatigue
+25A,23,24-month,No,Fatigue
+26A,2,6-month,Yes,Fatigue
+26A,2,12-month,Yes,Fatigue
+26A,2,24-month,No,Fatigue
+27A,25,6-month,Yes,Fatigue
+27A,25,12-month,Yes,Fatigue
+27A,25,24-month,Yes,Fatigue
+28A,4,6-month,No,Fatigue
+28A,4,12-month,No,Fatigue
+28A,4,24-month,No,Fatigue
+29A,27,6-month,Yes,Fatigue
+29A,27,12-month,Yes,Fatigue
+29A,27,24-month,Yes,Fatigue
+30A,26,6-month,Yes,Fatigue
+30A,26,12-month,Yes,Fatigue
+30A,26,24-month,Yes,Fatigue
+31A,19,6-month,Yes,Fatigue
+31A,19,12-month,Yes,Fatigue
+31A,19,24-month,No,Fatigue
+32A,2,6-month,No,Fatigue
+32A,2,12-month,No,Fatigue
+32A,2,24-month,No,Fatigue
+33A,7,6-month,No,Fatigue
+33A,7,12-month,No,Fatigue
+33A,7,24-month,No,Fatigue
+34A,4,6-month,No,Fatigue
+34A,4,12-month,No,Fatigue
+34A,4,24-month,No,Fatigue
+35A,10,6-month,No,Fatigue
+35A,10,12-month,Yes,Fatigue
+35A,10,24-month,No,Fatigue
+36A,21,6-month,Yes,Fatigue
+36A,21,12-month,Yes,Fatigue
+36A,21,24-month,Yes,Fatigue
+37A,28,6-month,No,Fatigue
+37A,28,12-month,Yes,Fatigue
+37A,28,24-month,Yes,Fatigue
+38A,9,6-month,No,Fatigue
+38A,9,12-month,No,Fatigue
+38A,9,24-month,Yes,Fatigue
+39A,25,6-month,Yes,Fatigue
+39A,25,12-month,Yes,Fatigue
+39A,25,24-month,Yes,Fatigue
+40A,26,6-month,Yes,Fatigue
+40A,26,12-month,No,Fatigue
+40A,26,24-month,Yes,Fatigue
+41A,7,6-month,No,Fatigue
+41A,7,12-month,No,Fatigue
+41A,7,24-month,No,Fatigue
+42A,7,6-month,Yes,Fatigue
+42A,7,12-month,No,Fatigue
+42A,7,24-month,No,Fatigue
+43A,27,6-month,Yes,Fatigue
+43A,27,12-month,Yes,Fatigue
+43A,27,24-month,Yes,Fatigue
+44A,18,6-month,No,Fatigue
+44A,18,12-month,Yes,Fatigue
+44A,18,24-month,Yes,Fatigue
+45A,16,6-month,No,Fatigue
+45A,16,12-month,No,Fatigue
+45A,16,24-month,Yes,Fatigue
+46A,7,6-month,No,Fatigue
+46A,7,12-month,No,Fatigue
+46A,7,24-month,No,Fatigue
+47A,27,6-month,Yes,Fatigue
+47A,27,12-month,Yes,Fatigue
+47A,27,24-month,Yes,Fatigue
+48A,1,6-month,No,Fatigue
+48A,1,12-month,No,Fatigue
+48A,1,24-month,No,Fatigue
+49A,9,6-month,No,Fatigue
+49A,9,12-month,No,Fatigue
+49A,9,24-month,No,Fatigue
+50A,26,6-month,Yes,Fatigue
+50A,26,12-month,Yes,Fatigue
+50A,26,24-month,No,Fatigue
+1A,30,6-month,Yes,Headache
+1A,30,12-month,Yes,Headache
+1A,30,24-month,Yes,Headache
+2A,29,6-month,Yes,Headache
+2A,29,12-month,Yes,Headache
+2A,29,24-month,Yes,Headache
+3A,6,6-month,Yes,Headache
+3A,6,12-month,Yes,Headache
+3A,6,24-month,No,Headache
+4A,1,6-month,No,Headache
+4A,1,12-month,No,Headache
+4A,1,24-month,No,Headache
+5A,3,6-month,No,Headache
+5A,3,12-month,No,Headache
+5A,3,24-month,No,Headache
+6A,3,6-month,No,Headache
+6A,3,12-month,No,Headache
+6A,3,24-month,No,Headache
+7A,9,6-month,No,Headache
+7A,9,12-month,No,Headache
+7A,9,24-month,No,Headache
+8A,29,6-month,Yes,Headache
+8A,29,12-month,Yes,Headache
+8A,29,24-month,Yes,Headache
+9A,19,6-month,Yes,Headache
+9A,19,12-month,Yes,Headache
+9A,19,24-month,No,Headache
+10A,30,6-month,Yes,Headache
+10A,30,12-month,Yes,Headache
+10A,30,24-month,Yes,Headache
+11A,27,6-month,Yes,Headache
+11A,27,12-month,Yes,Headache
+11A,27,24-month,Yes,Headache
+12A,23,6-month,Yes,Headache
+12A,23,12-month,Yes,Headache
+12A,23,24-month,Yes,Headache
+13A,24,6-month,No,Headache
+13A,24,12-month,Yes,Headache
+13A,24,24-month,Yes,Headache
+14A,1,6-month,No,Headache
+14A,1,12-month,No,Headache
+14A,1,24-month,No,Headache
+15A,7,6-month,No,Headache
+15A,7,12-month,No,Headache
+15A,7,24-month,No,Headache
+16A,11,6-month,Yes,Headache
+16A,11,12-month,No,Headache
+16A,11,24-month,Yes,Headache
+17A,17,6-month,No,Headache
+17A,17,12-month,No,Headache
+17A,17,24-month,Yes,Headache
+18A,22,6-month,Yes,Headache
+18A,22,12-month,Yes,Headache
+18A,22,24-month,Yes,Headache
+19A,28,6-month,Yes,Headache
+19A,28,12-month,Yes,Headache
+19A,28,24-month,Yes,Headache
+20A,12,6-month,No,Headache
+20A,12,12-month,Yes,Headache
+20A,12,24-month,No,Headache
+21A,6,6-month,No,Headache
+21A,6,12-month,No,Headache
+21A,6,24-month,Yes,Headache
+22A,24,6-month,Yes,Headache
+22A,24,12-month,Yes,Headache
+22A,24,24-month,Yes,Headache
+23A,3,6-month,No,Headache
+23A,3,12-month,No,Headache
+23A,3,24-month,No,Headache
+24A,15,6-month,No,Headache
+24A,15,12-month,No,Headache
+24A,15,24-month,No,Headache
+25A,23,6-month,Yes,Headache
+25A,23,12-month,No,Headache
+25A,23,24-month,Yes,Headache
+26A,2,6-month,No,Headache
+26A,2,12-month,No,Headache
+26A,2,24-month,No,Headache
+27A,25,6-month,Yes,Headache
+27A,25,12-month,Yes,Headache
+27A,25,24-month,Yes,Headache
+28A,4,6-month,No,Headache
+28A,4,12-month,No,Headache
+28A,4,24-month,No,Headache
+29A,27,6-month,Yes,Headache
+29A,27,12-month,Yes,Headache
+29A,27,24-month,Yes,Headache
+30A,26,6-month,Yes,Headache
+30A,26,12-month,No,Headache
+30A,26,24-month,Yes,Headache
+31A,19,6-month,Yes,Headache
+31A,19,12-month,No,Headache
+31A,19,24-month,No,Headache
+32A,2,6-month,No,Headache
+32A,2,12-month,No,Headache
+32A,2,24-month,No,Headache
+33A,7,6-month,No,Headache
+33A,7,12-month,No,Headache
+33A,7,24-month,No,Headache
+34A,4,6-month,No,Headache
+34A,4,12-month,No,Headache
+34A,4,24-month,No,Headache
+35A,10,6-month,No,Headache
+35A,10,12-month,No,Headache
+35A,10,24-month,Yes,Headache
+36A,21,6-month,Yes,Headache
+36A,21,12-month,Yes,Headache
+36A,21,24-month,No,Headache
+37A,28,6-month,Yes,Headache
+37A,28,12-month,Yes,Headache
+37A,28,24-month,Yes,Headache
+38A,9,6-month,Yes,Headache
+38A,9,12-month,No,Headache
+38A,9,24-month,No,Headache
+39A,25,6-month,Yes,Headache
+39A,25,12-month,No,Headache
+39A,25,24-month,Yes,Headache
+40A,26,6-month,Yes,Headache
+40A,26,12-month,Yes,Headache
+40A,26,24-month,Yes,Headache
+41A,7,6-month,No,Headache
+41A,7,12-month,Yes,Headache
+41A,7,24-month,No,Headache
+42A,7,6-month,No,Headache
+42A,7,12-month,Yes,Headache
+42A,7,24-month,No,Headache
+43A,27,6-month,Yes,Headache
+43A,27,12-month,Yes,Headache
+43A,27,24-month,Yes,Headache
+44A,18,6-month,Yes,Headache
+44A,18,12-month,No,Headache
+44A,18,24-month,Yes,Headache
+45A,16,6-month,No,Headache
+45A,16,12-month,Yes,Headache
+45A,16,24-month,No,Headache
+46A,7,6-month,No,Headache
+46A,7,12-month,Yes,Headache
+46A,7,24-month,No,Headache
+47A,27,6-month,No,Headache
+47A,27,12-month,Yes,Headache
+47A,27,24-month,Yes,Headache
+48A,1,6-month,No,Headache
+48A,1,12-month,No,Headache
+48A,1,24-month,No,Headache
+49A,9,6-month,No,Headache
+49A,9,12-month,No,Headache
+49A,9,24-month,No,Headache
+50A,26,6-month,Yes,Headache
+50A,26,12-month,Yes,Headache
+50A,26,24-month,Yes,Headache
+1A,30,6-month,Yes,Muscle Aches
+1A,30,12-month,Yes,Muscle Aches
+1A,30,24-month,Yes,Muscle Aches
+2A,29,6-month,Yes,Muscle Aches
+2A,29,12-month,Yes,Muscle Aches
+2A,29,24-month,Yes,Muscle Aches
+3A,6,6-month,No,Muscle Aches
+3A,6,12-month,No,Muscle Aches
+3A,6,24-month,Yes,Muscle Aches
+4A,1,6-month,No,Muscle Aches
+4A,1,12-month,Yes,Muscle Aches
+4A,1,24-month,No,Muscle Aches
+5A,3,6-month,No,Muscle Aches
+5A,3,12-month,No,Muscle Aches
+5A,3,24-month,No,Muscle Aches
+6A,3,6-month,No,Muscle Aches
+6A,3,12-month,No,Muscle Aches
+6A,3,24-month,No,Muscle Aches
+7A,9,6-month,No,Muscle Aches
+7A,9,12-month,Yes,Muscle Aches
+7A,9,24-month,Yes,Muscle Aches
+8A,29,6-month,Yes,Muscle Aches
+8A,29,12-month,Yes,Muscle Aches
+8A,29,24-month,Yes,Muscle Aches
+9A,19,6-month,Yes,Muscle Aches
+9A,19,12-month,Yes,Muscle Aches
+9A,19,24-month,No,Muscle Aches
+10A,30,6-month,Yes,Muscle Aches
+10A,30,12-month,Yes,Muscle Aches
+10A,30,24-month,Yes,Muscle Aches
+11A,27,6-month,Yes,Muscle Aches
+11A,27,12-month,Yes,Muscle Aches
+11A,27,24-month,Yes,Muscle Aches
+12A,23,6-month,Yes,Muscle Aches
+12A,23,12-month,Yes,Muscle Aches
+12A,23,24-month,No,Muscle Aches
+13A,24,6-month,Yes,Muscle Aches
+13A,24,12-month,Yes,Muscle Aches
+13A,24,24-month,No,Muscle Aches
+14A,1,6-month,No,Muscle Aches
+14A,1,12-month,No,Muscle Aches
+14A,1,24-month,No,Muscle Aches
+15A,7,6-month,Yes,Muscle Aches
+15A,7,12-month,Yes,Muscle Aches
+15A,7,24-month,No,Muscle Aches
+16A,11,6-month,No,Muscle Aches
+16A,11,12-month,No,Muscle Aches
+16A,11,24-month,Yes,Muscle Aches
+17A,17,6-month,No,Muscle Aches
+17A,17,12-month,No,Muscle Aches
+17A,17,24-month,No,Muscle Aches
+18A,22,6-month,No,Muscle Aches
+18A,22,12-month,Yes,Muscle Aches
+18A,22,24-month,Yes,Muscle Aches
+19A,28,6-month,Yes,Muscle Aches
+19A,28,12-month,Yes,Muscle Aches
+19A,28,24-month,Yes,Muscle Aches
+20A,12,6-month,Yes,Muscle Aches
+20A,12,12-month,Yes,Muscle Aches
+20A,12,24-month,Yes,Muscle Aches
+21A,6,6-month,No,Muscle Aches
+21A,6,12-month,No,Muscle Aches
+21A,6,24-month,Yes,Muscle Aches
+22A,24,6-month,Yes,Muscle Aches
+22A,24,12-month,No,Muscle Aches
+22A,24,24-month,Yes,Muscle Aches
+23A,3,6-month,No,Muscle Aches
+23A,3,12-month,No,Muscle Aches
+23A,3,24-month,No,Muscle Aches
+24A,15,6-month,No,Muscle Aches
+24A,15,12-month,Yes,Muscle Aches
+24A,15,24-month,No,Muscle Aches
+25A,23,6-month,No,Muscle Aches
+25A,23,12-month,Yes,Muscle Aches
+25A,23,24-month,Yes,Muscle Aches
+26A,2,6-month,No,Muscle Aches
+26A,2,12-month,No,Muscle Aches
+26A,2,24-month,No,Muscle Aches
+27A,25,6-month,No,Muscle Aches
+27A,25,12-month,Yes,Muscle Aches
+27A,25,24-month,No,Muscle Aches
+28A,4,6-month,No,Muscle Aches
+28A,4,12-month,No,Muscle Aches
+28A,4,24-month,Yes,Muscle Aches
+29A,27,6-month,Yes,Muscle Aches
+29A,27,12-month,Yes,Muscle Aches
+29A,27,24-month,Yes,Muscle Aches
+30A,26,6-month,Yes,Muscle Aches
+30A,26,12-month,Yes,Muscle Aches
+30A,26,24-month,Yes,Muscle Aches
+31A,19,6-month,Yes,Muscle Aches
+31A,19,12-month,Yes,Muscle Aches
+31A,19,24-month,Yes,Muscle Aches
+32A,2,6-month,No,Muscle Aches
+32A,2,12-month,No,Muscle Aches
+32A,2,24-month,No,Muscle Aches
+33A,7,6-month,No,Muscle Aches
+33A,7,12-month,No,Muscle Aches
+33A,7,24-month,No,Muscle Aches
+34A,4,6-month,No,Muscle Aches
+34A,4,12-month,No,Muscle Aches
+34A,4,24-month,No,Muscle Aches
+35A,10,6-month,No,Muscle Aches
+35A,10,12-month,Yes,Muscle Aches
+35A,10,24-month,No,Muscle Aches
+36A,21,6-month,Yes,Muscle Aches
+36A,21,12-month,Yes,Muscle Aches
+36A,21,24-month,Yes,Muscle Aches
+37A,28,6-month,Yes,Muscle Aches
+37A,28,12-month,Yes,Muscle Aches
+37A,28,24-month,Yes,Muscle Aches
+38A,9,6-month,No,Muscle Aches
+38A,9,12-month,Yes,Muscle Aches
+38A,9,24-month,No,Muscle Aches
+39A,25,6-month,Yes,Muscle Aches
+39A,25,12-month,No,Muscle Aches
+39A,25,24-month,Yes,Muscle Aches
+40A,26,6-month,Yes,Muscle Aches
+40A,26,12-month,Yes,Muscle Aches
+40A,26,24-month,Yes,Muscle Aches
+41A,7,6-month,No,Muscle Aches
+41A,7,12-month,No,Muscle Aches
+41A,7,24-month,No,Muscle Aches
+42A,7,6-month,No,Muscle Aches
+42A,7,12-month,No,Muscle Aches
+42A,7,24-month,Yes,Muscle Aches
+43A,27,6-month,Yes,Muscle Aches
+43A,27,12-month,No,Muscle Aches
+43A,27,24-month,Yes,Muscle Aches
+44A,18,6-month,Yes,Muscle Aches
+44A,18,12-month,Yes,Muscle Aches
+44A,18,24-month,No,Muscle Aches
+45A,16,6-month,Yes,Muscle Aches
+45A,16,12-month,No,Muscle Aches
+45A,16,24-month,No,Muscle Aches
+46A,7,6-month,Yes,Muscle Aches
+46A,7,12-month,No,Muscle Aches
+46A,7,24-month,No,Muscle Aches
+47A,27,6-month,Yes,Muscle Aches
+47A,27,12-month,Yes,Muscle Aches
+47A,27,24-month,Yes,Muscle Aches
+48A,1,6-month,No,Muscle Aches
+48A,1,12-month,No,Muscle Aches
+48A,1,24-month,No,Muscle Aches
+49A,9,6-month,No,Muscle Aches
+49A,9,12-month,Yes,Muscle Aches
+49A,9,24-month,Yes,Muscle Aches
+50A,26,6-month,Yes,Muscle Aches
+50A,26,12-month,No,Muscle Aches
+50A,26,24-month,Yes,Muscle Aches
+1A,30,6-month,Yes,Breathing Difficulties
+1A,30,12-month,Yes,Breathing Difficulties
+1A,30,24-month,Yes,Breathing Difficulties
+2A,29,6-month,Yes,Breathing Difficulties
+2A,29,12-month,Yes,Breathing Difficulties
+2A,29,24-month,Yes,Breathing Difficulties
+3A,6,6-month,No,Breathing Difficulties
+3A,6,12-month,No,Breathing Difficulties
+3A,6,24-month,No,Breathing Difficulties
+4A,1,6-month,No,Breathing Difficulties
+4A,1,12-month,No,Breathing Difficulties
+4A,1,24-month,No,Breathing Difficulties
+5A,3,6-month,No,Breathing Difficulties
+5A,3,12-month,No,Breathing Difficulties
+5A,3,24-month,No,Breathing Difficulties
+6A,3,6-month,No,Breathing Difficulties
+6A,3,12-month,No,Breathing Difficulties
+6A,3,24-month,No,Breathing Difficulties
+7A,9,6-month,No,Breathing Difficulties
+7A,9,12-month,No,Breathing Difficulties
+7A,9,24-month,No,Breathing Difficulties
+8A,29,6-month,Yes,Breathing Difficulties
+8A,29,12-month,Yes,Breathing Difficulties
+8A,29,24-month,Yes,Breathing Difficulties
+9A,19,6-month,No,Breathing Difficulties
+9A,19,12-month,Yes,Breathing Difficulties
+9A,19,24-month,No,Breathing Difficulties
+10A,30,6-month,Yes,Breathing Difficulties
+10A,30,12-month,Yes,Breathing Difficulties
+10A,30,24-month,Yes,Breathing Difficulties
+11A,27,6-month,Yes,Breathing Difficulties
+11A,27,12-month,Yes,Breathing Difficulties
+11A,27,24-month,No,Breathing Difficulties
+12A,23,6-month,Yes,Breathing Difficulties
+12A,23,12-month,Yes,Breathing Difficulties
+12A,23,24-month,Yes,Breathing Difficulties
+13A,24,6-month,Yes,Breathing Difficulties
+13A,24,12-month,Yes,Breathing Difficulties
+13A,24,24-month,Yes,Breathing Difficulties
+14A,1,6-month,No,Breathing Difficulties
+14A,1,12-month,No,Breathing Difficulties
+14A,1,24-month,No,Breathing Difficulties
+15A,7,6-month,No,Breathing Difficulties
+15A,7,12-month,No,Breathing Difficulties
+15A,7,24-month,No,Breathing Difficulties
+16A,11,6-month,No,Breathing Difficulties
+16A,11,12-month,Yes,Breathing Difficulties
+16A,11,24-month,No,Breathing Difficulties
+17A,17,6-month,Yes,Breathing Difficulties
+17A,17,12-month,Yes,Breathing Difficulties
+17A,17,24-month,No,Breathing Difficulties
+18A,22,6-month,Yes,Breathing Difficulties
+18A,22,12-month,Yes,Breathing Difficulties
+18A,22,24-month,Yes,Breathing Difficulties
+19A,28,6-month,Yes,Breathing Difficulties
+19A,28,12-month,Yes,Breathing Difficulties
+19A,28,24-month,Yes,Breathing Difficulties
+20A,12,6-month,No,Breathing Difficulties
+20A,12,12-month,No,Breathing Difficulties
+20A,12,24-month,Yes,Breathing Difficulties
+21A,6,6-month,No,Breathing Difficulties
+21A,6,12-month,No,Breathing Difficulties
+21A,6,24-month,No,Breathing Difficulties
+22A,24,6-month,Yes,Breathing Difficulties
+22A,24,12-month,Yes,Breathing Difficulties
+22A,24,24-month,No,Breathing Difficulties
+23A,3,6-month,No,Breathing Difficulties
+23A,3,12-month,Yes,Breathing Difficulties
+23A,3,24-month,No,Breathing Difficulties
+24A,15,6-month,No,Breathing Difficulties
+24A,15,12-month,Yes,Breathing Difficulties
+24A,15,24-month,Yes,Breathing Difficulties
+25A,23,6-month,Yes,Breathing Difficulties
+25A,23,12-month,Yes,Breathing Difficulties
+25A,23,24-month,No,Breathing Difficulties
+26A,2,6-month,No,Breathing Difficulties
+26A,2,12-month,No,Breathing Difficulties
+26A,2,24-month,No,Breathing Difficulties
+27A,25,6-month,Yes,Breathing Difficulties
+27A,25,12-month,Yes,Breathing Difficulties
+27A,25,24-month,Yes,Breathing Difficulties
+28A,4,6-month,No,Breathing Difficulties
+28A,4,12-month,No,Breathing Difficulties
+28A,4,24-month,No,Breathing Difficulties
+29A,27,6-month,Yes,Breathing Difficulties
+29A,27,12-month,No,Breathing Difficulties
+29A,27,24-month,Yes,Breathing Difficulties
+30A,26,6-month,Yes,Breathing Difficulties
+30A,26,12-month,Yes,Breathing Difficulties
+30A,26,24-month,Yes,Breathing Difficulties
+31A,19,6-month,Yes,Breathing Difficulties
+31A,19,12-month,Yes,Breathing Difficulties
+31A,19,24-month,No,Breathing Difficulties
+32A,2,6-month,No,Breathing Difficulties
+32A,2,12-month,No,Breathing Difficulties
+32A,2,24-month,No,Breathing Difficulties
+33A,7,6-month,No,Breathing Difficulties
+33A,7,12-month,Yes,Breathing Difficulties
+33A,7,24-month,No,Breathing Difficulties
+34A,4,6-month,No,Breathing Difficulties
+34A,4,12-month,No,Breathing Difficulties
+34A,4,24-month,No,Breathing Difficulties
+35A,10,6-month,Yes,Breathing Difficulties
+35A,10,12-month,No,Breathing Difficulties
+35A,10,24-month,No,Breathing Difficulties
+36A,21,6-month,No,Breathing Difficulties
+36A,21,12-month,Yes,Breathing Difficulties
+36A,21,24-month,No,Breathing Difficulties
+37A,28,6-month,Yes,Breathing Difficulties
+37A,28,12-month,No,Breathing Difficulties
+37A,28,24-month,Yes,Breathing Difficulties
+38A,9,6-month,No,Breathing Difficulties
+38A,9,12-month,No,Breathing Difficulties
+38A,9,24-month,No,Breathing Difficulties
+39A,25,6-month,Yes,Breathing Difficulties
+39A,25,12-month,No,Breathing Difficulties
+39A,25,24-month,Yes,Breathing Difficulties
+40A,26,6-month,Yes,Breathing Difficulties
+40A,26,12-month,Yes,Breathing Difficulties
+40A,26,24-month,Yes,Breathing Difficulties
+41A,7,6-month,No,Breathing Difficulties
+41A,7,12-month,No,Breathing Difficulties
+41A,7,24-month,No,Breathing Difficulties
+42A,7,6-month,Yes,Breathing Difficulties
+42A,7,12-month,No,Breathing Difficulties
+42A,7,24-month,No,Breathing Difficulties
+43A,27,6-month,Yes,Breathing Difficulties
+43A,27,12-month,Yes,Breathing Difficulties
+43A,27,24-month,Yes,Breathing Difficulties
+44A,18,6-month,No,Breathing Difficulties
+44A,18,12-month,Yes,Breathing Difficulties
+44A,18,24-month,Yes,Breathing Difficulties
+45A,16,6-month,No,Breathing Difficulties
+45A,16,12-month,Yes,Breathing Difficulties
+45A,16,24-month,No,Breathing Difficulties
+46A,7,6-month,No,Breathing Difficulties
+46A,7,12-month,Yes,Breathing Difficulties
+46A,7,24-month,No,Breathing Difficulties
+47A,27,6-month,Yes,Breathing Difficulties
+47A,27,12-month,Yes,Breathing Difficulties
+47A,27,24-month,Yes,Breathing Difficulties
+48A,1,6-month,No,Breathing Difficulties
+48A,1,12-month,Yes,Breathing Difficulties
+48A,1,24-month,No,Breathing Difficulties
+49A,9,6-month,No,Breathing Difficulties
+49A,9,12-month,No,Breathing Difficulties
+49A,9,24-month,No,Breathing Difficulties
+50A,26,6-month,Yes,Breathing Difficulties
+50A,26,12-month,Yes,Breathing Difficulties
+50A,26,24-month,Yes,Breathing Difficulties
+1A,30,6-month,Yes,Loss Taste/Smell
+1A,30,12-month,Yes,Loss Taste/Smell
+1A,30,24-month,Yes,Loss Taste/Smell
+2A,29,6-month,Yes,Loss Taste/Smell
+2A,29,12-month,No,Loss Taste/Smell
+2A,29,24-month,Yes,Loss Taste/Smell
+3A,6,6-month,No,Loss Taste/Smell
+3A,6,12-month,No,Loss Taste/Smell
+3A,6,24-month,No,Loss Taste/Smell
+4A,1,6-month,No,Loss Taste/Smell
+4A,1,12-month,No,Loss Taste/Smell
+4A,1,24-month,No,Loss Taste/Smell
+5A,3,6-month,No,Loss Taste/Smell
+5A,3,12-month,No,Loss Taste/Smell
+5A,3,24-month,No,Loss Taste/Smell
+6A,3,6-month,No,Loss Taste/Smell
+6A,3,12-month,No,Loss Taste/Smell
+6A,3,24-month,Yes,Loss Taste/Smell
+7A,9,6-month,No,Loss Taste/Smell
+7A,9,12-month,No,Loss Taste/Smell
+7A,9,24-month,No,Loss Taste/Smell
+8A,29,6-month,No,Loss Taste/Smell
+8A,29,12-month,Yes,Loss Taste/Smell
+8A,29,24-month,Yes,Loss Taste/Smell
+9A,19,6-month,No,Loss Taste/Smell
+9A,19,12-month,No,Loss Taste/Smell
+9A,19,24-month,Yes,Loss Taste/Smell
+10A,30,6-month,Yes,Loss Taste/Smell
+10A,30,12-month,Yes,Loss Taste/Smell
+10A,30,24-month,Yes,Loss Taste/Smell
+11A,27,6-month,Yes,Loss Taste/Smell
+11A,27,12-month,Yes,Loss Taste/Smell
+11A,27,24-month,Yes,Loss Taste/Smell
+12A,23,6-month,Yes,Loss Taste/Smell
+12A,23,12-month,Yes,Loss Taste/Smell
+12A,23,24-month,Yes,Loss Taste/Smell
+13A,24,6-month,Yes,Loss Taste/Smell
+13A,24,12-month,No,Loss Taste/Smell
+13A,24,24-month,Yes,Loss Taste/Smell
+14A,1,6-month,No,Loss Taste/Smell
+14A,1,12-month,No,Loss Taste/Smell
+14A,1,24-month,No,Loss Taste/Smell
+15A,7,6-month,No,Loss Taste/Smell
+15A,7,12-month,Yes,Loss Taste/Smell
+15A,7,24-month,No,Loss Taste/Smell
+16A,11,6-month,No,Loss Taste/Smell
+16A,11,12-month,No,Loss Taste/Smell
+16A,11,24-month,No,Loss Taste/Smell
+17A,17,6-month,No,Loss Taste/Smell
+17A,17,12-month,No,Loss Taste/Smell
+17A,17,24-month,Yes,Loss Taste/Smell
+18A,22,6-month,No,Loss Taste/Smell
+18A,22,12-month,Yes,Loss Taste/Smell
+18A,22,24-month,Yes,Loss Taste/Smell
+19A,28,6-month,Yes,Loss Taste/Smell
+19A,28,12-month,Yes,Loss Taste/Smell
+19A,28,24-month,Yes,Loss Taste/Smell
+20A,12,6-month,No,Loss Taste/Smell
+20A,12,12-month,No,Loss Taste/Smell
+20A,12,24-month,Yes,Loss Taste/Smell
+21A,6,6-month,No,Loss Taste/Smell
+21A,6,12-month,No,Loss Taste/Smell
+21A,6,24-month,Yes,Loss Taste/Smell
+22A,24,6-month,Yes,Loss Taste/Smell
+22A,24,12-month,Yes,Loss Taste/Smell
+22A,24,24-month,Yes,Loss Taste/Smell
+23A,3,6-month,No,Loss Taste/Smell
+23A,3,12-month,No,Loss Taste/Smell
+23A,3,24-month,Yes,Loss Taste/Smell
+24A,15,6-month,Yes,Loss Taste/Smell
+24A,15,12-month,No,Loss Taste/Smell
+24A,15,24-month,Yes,Loss Taste/Smell
+25A,23,6-month,Yes,Loss Taste/Smell
+25A,23,12-month,Yes,Loss Taste/Smell
+25A,23,24-month,Yes,Loss Taste/Smell
+26A,2,6-month,No,Loss Taste/Smell
+26A,2,12-month,No,Loss Taste/Smell
+26A,2,24-month,No,Loss Taste/Smell
+27A,25,6-month,Yes,Loss Taste/Smell
+27A,25,12-month,Yes,Loss Taste/Smell
+27A,25,24-month,Yes,Loss Taste/Smell
+28A,4,6-month,No,Loss Taste/Smell
+28A,4,12-month,No,Loss Taste/Smell
+28A,4,24-month,No,Loss Taste/Smell
+29A,27,6-month,Yes,Loss Taste/Smell
+29A,27,12-month,Yes,Loss Taste/Smell
+29A,27,24-month,Yes,Loss Taste/Smell
+30A,26,6-month,Yes,Loss Taste/Smell
+30A,26,12-month,Yes,Loss Taste/Smell
+30A,26,24-month,Yes,Loss Taste/Smell
+31A,19,6-month,Yes,Loss Taste/Smell
+31A,19,12-month,No,Loss Taste/Smell
+31A,19,24-month,Yes,Loss Taste/Smell
+32A,2,6-month,No,Loss Taste/Smell
+32A,2,12-month,No,Loss Taste/Smell
+32A,2,24-month,No,Loss Taste/Smell
+33A,7,6-month,No,Loss Taste/Smell
+33A,7,12-month,Yes,Loss Taste/Smell
+33A,7,24-month,Yes,Loss Taste/Smell
+34A,4,6-month,No,Loss Taste/Smell
+34A,4,12-month,Yes,Loss Taste/Smell
+34A,4,24-month,No,Loss Taste/Smell
+35A,10,6-month,No,Loss Taste/Smell
+35A,10,12-month,Yes,Loss Taste/Smell
+35A,10,24-month,No,Loss Taste/Smell
+36A,21,6-month,Yes,Loss Taste/Smell
+36A,21,12-month,Yes,Loss Taste/Smell
+36A,21,24-month,No,Loss Taste/Smell
+37A,28,6-month,Yes,Loss Taste/Smell
+37A,28,12-month,Yes,Loss Taste/Smell
+37A,28,24-month,Yes,Loss Taste/Smell
+38A,9,6-month,No,Loss Taste/Smell
+38A,9,12-month,No,Loss Taste/Smell
+38A,9,24-month,No,Loss Taste/Smell
+39A,25,6-month,Yes,Loss Taste/Smell
+39A,25,12-month,Yes,Loss Taste/Smell
+39A,25,24-month,Yes,Loss Taste/Smell
+40A,26,6-month,Yes,Loss Taste/Smell
+40A,26,12-month,Yes,Loss Taste/Smell
+40A,26,24-month,No,Loss Taste/Smell
+41A,7,6-month,No,Loss Taste/Smell
+41A,7,12-month,No,Loss Taste/Smell
+41A,7,24-month,No,Loss Taste/Smell
+42A,7,6-month,No,Loss Taste/Smell
+42A,7,12-month,No,Loss Taste/Smell
+42A,7,24-month,No,Loss Taste/Smell
+43A,27,6-month,Yes,Loss Taste/Smell
+43A,27,12-month,Yes,Loss Taste/Smell
+43A,27,24-month,Yes,Loss Taste/Smell
+44A,18,6-month,Yes,Loss Taste/Smell
+44A,18,12-month,Yes,Loss Taste/Smell
+44A,18,24-month,No,Loss Taste/Smell
+45A,16,6-month,No,Loss Taste/Smell
+45A,16,12-month,Yes,Loss Taste/Smell
+45A,16,24-month,No,Loss Taste/Smell
+46A,7,6-month,No,Loss Taste/Smell
+46A,7,12-month,Yes,Loss Taste/Smell
+46A,7,24-month,No,Loss Taste/Smell
+47A,27,6-month,Yes,Loss Taste/Smell
+47A,27,12-month,Yes,Loss Taste/Smell
+47A,27,24-month,Yes,Loss Taste/Smell
+48A,1,6-month,No,Loss Taste/Smell
+48A,1,12-month,No,Loss Taste/Smell
+48A,1,24-month,No,Loss Taste/Smell
+49A,9,6-month,No,Loss Taste/Smell
+49A,9,12-month,No,Loss Taste/Smell
+49A,9,24-month,Yes,Loss Taste/Smell
+50A,26,6-month,No,Loss Taste/Smell
+50A,26,12-month,Yes,Loss Taste/Smell
+50A,26,24-month,Yes,Loss Taste/Smell
+1A,30,6-month,Yes,Joint Pain
+1A,30,12-month,Yes,Joint Pain
+1A,30,24-month,Yes,Joint Pain
+2A,29,6-month,Yes,Joint Pain
+2A,29,12-month,Yes,Joint Pain
+2A,29,24-month,Yes,Joint Pain
+3A,6,6-month,No,Joint Pain
+3A,6,12-month,No,Joint Pain
+3A,6,24-month,No,Joint Pain
+4A,1,6-month,No,Joint Pain
+4A,1,12-month,No,Joint Pain
+4A,1,24-month,No,Joint Pain
+5A,3,6-month,No,Joint Pain
+5A,3,12-month,No,Joint Pain
+5A,3,24-month,No,Joint Pain
+6A,3,6-month,No,Joint Pain
+6A,3,12-month,Yes,Joint Pain
+6A,3,24-month,No,Joint Pain
+7A,9,6-month,No,Joint Pain
+7A,9,12-month,No,Joint Pain
+7A,9,24-month,No,Joint Pain
+8A,29,6-month,Yes,Joint Pain
+8A,29,12-month,Yes,Joint Pain
+8A,29,24-month,Yes,Joint Pain
+9A,19,6-month,Yes,Joint Pain
+9A,19,12-month,Yes,Joint Pain
+9A,19,24-month,Yes,Joint Pain
+10A,30,6-month,Yes,Joint Pain
+10A,30,12-month,Yes,Joint Pain
+10A,30,24-month,Yes,Joint Pain
+11A,27,6-month,Yes,Joint Pain
+11A,27,12-month,Yes,Joint Pain
+11A,27,24-month,Yes,Joint Pain
+12A,23,6-month,No,Joint Pain
+12A,23,12-month,Yes,Joint Pain
+12A,23,24-month,Yes,Joint Pain
+13A,24,6-month,Yes,Joint Pain
+13A,24,12-month,Yes,Joint Pain
+13A,24,24-month,Yes,Joint Pain
+14A,1,6-month,No,Joint Pain
+14A,1,12-month,No,Joint Pain
+14A,1,24-month,No,Joint Pain
+15A,7,6-month,No,Joint Pain
+15A,7,12-month,Yes,Joint Pain
+15A,7,24-month,No,Joint Pain
+16A,11,6-month,No,Joint Pain
+16A,11,12-month,No,Joint Pain
+16A,11,24-month,No,Joint Pain
+17A,17,6-month,No,Joint Pain
+17A,17,12-month,Yes,Joint Pain
+17A,17,24-month,No,Joint Pain
+18A,22,6-month,Yes,Joint Pain
+18A,22,12-month,No,Joint Pain
+18A,22,24-month,No,Joint Pain
+19A,28,6-month,No,Joint Pain
+19A,28,12-month,Yes,Joint Pain
+19A,28,24-month,Yes,Joint Pain
+20A,12,6-month,No,Joint Pain
+20A,12,12-month,Yes,Joint Pain
+20A,12,24-month,No,Joint Pain
+21A,6,6-month,No,Joint Pain
+21A,6,12-month,No,Joint Pain
+21A,6,24-month,Yes,Joint Pain
+22A,24,6-month,Yes,Joint Pain
+22A,24,12-month,Yes,Joint Pain
+22A,24,24-month,Yes,Joint Pain
+23A,3,6-month,No,Joint Pain
+23A,3,12-month,No,Joint Pain
+23A,3,24-month,No,Joint Pain
+24A,15,6-month,Yes,Joint Pain
+24A,15,12-month,No,Joint Pain
+24A,15,24-month,Yes,Joint Pain
+25A,23,6-month,Yes,Joint Pain
+25A,23,12-month,Yes,Joint Pain
+25A,23,24-month,Yes,Joint Pain
+26A,2,6-month,No,Joint Pain
+26A,2,12-month,No,Joint Pain
+26A,2,24-month,No,Joint Pain
+27A,25,6-month,Yes,Joint Pain
+27A,25,12-month,Yes,Joint Pain
+27A,25,24-month,Yes,Joint Pain
+28A,4,6-month,No,Joint Pain
+28A,4,12-month,No,Joint Pain
+28A,4,24-month,No,Joint Pain
+29A,27,6-month,Yes,Joint Pain
+29A,27,12-month,Yes,Joint Pain
+29A,27,24-month,No,Joint Pain
+30A,26,6-month,Yes,Joint Pain
+30A,26,12-month,Yes,Joint Pain
+30A,26,24-month,Yes,Joint Pain
+31A,19,6-month,No,Joint Pain
+31A,19,12-month,Yes,Joint Pain
+31A,19,24-month,Yes,Joint Pain
+32A,2,6-month,No,Joint Pain
+32A,2,12-month,No,Joint Pain
+32A,2,24-month,No,Joint Pain
+33A,7,6-month,No,Joint Pain
+33A,7,12-month,No,Joint Pain
+33A,7,24-month,Yes,Joint Pain
+34A,4,6-month,No,Joint Pain
+34A,4,12-month,No,Joint Pain
+34A,4,24-month,No,Joint Pain
+35A,10,6-month,No,Joint Pain
+35A,10,12-month,No,Joint Pain
+35A,10,24-month,No,Joint Pain
+36A,21,6-month,No,Joint Pain
+36A,21,12-month,Yes,Joint Pain
+36A,21,24-month,Yes,Joint Pain
+37A,28,6-month,Yes,Joint Pain
+37A,28,12-month,Yes,Joint Pain
+37A,28,24-month,Yes,Joint Pain
+38A,9,6-month,No,Joint Pain
+38A,9,12-month,No,Joint Pain
+38A,9,24-month,Yes,Joint Pain
+39A,25,6-month,Yes,Joint Pain
+39A,25,12-month,Yes,Joint Pain
+39A,25,24-month,Yes,Joint Pain
+40A,26,6-month,Yes,Joint Pain
+40A,26,12-month,Yes,Joint Pain
+40A,26,24-month,Yes,Joint Pain
+41A,7,6-month,No,Joint Pain
+41A,7,12-month,No,Joint Pain
+41A,7,24-month,No,Joint Pain
+42A,7,6-month,No,Joint Pain
+42A,7,12-month,Yes,Joint Pain
+42A,7,24-month,No,Joint Pain
+43A,27,6-month,Yes,Joint Pain
+43A,27,12-month,Yes,Joint Pain
+43A,27,24-month,Yes,Joint Pain
+44A,18,6-month,Yes,Joint Pain
+44A,18,12-month,Yes,Joint Pain
+44A,18,24-month,Yes,Joint Pain
+45A,16,6-month,Yes,Joint Pain
+45A,16,12-month,Yes,Joint Pain
+45A,16,24-month,Yes,Joint Pain
+46A,7,6-month,No,Joint Pain
+46A,7,12-month,No,Joint Pain
+46A,7,24-month,No,Joint Pain
+47A,27,6-month,Yes,Joint Pain
+47A,27,12-month,Yes,Joint Pain
+47A,27,24-month,Yes,Joint Pain
+48A,1,6-month,No,Joint Pain
+48A,1,12-month,No,Joint Pain
+48A,1,24-month,No,Joint Pain
+49A,9,6-month,No,Joint Pain
+49A,9,12-month,Yes,Joint Pain
+49A,9,24-month,No,Joint Pain
+50A,26,6-month,Yes,Joint Pain
+50A,26,12-month,Yes,Joint Pain
+50A,26,24-month,Yes,Joint Pain
+1A,30,6-month,Yes,Vertigo
+1A,30,12-month,Yes,Vertigo
+1A,30,24-month,Yes,Vertigo
+2A,29,6-month,Yes,Vertigo
+2A,29,12-month,Yes,Vertigo
+2A,29,24-month,Yes,Vertigo
+3A,6,6-month,Yes,Vertigo
+3A,6,12-month,No,Vertigo
+3A,6,24-month,No,Vertigo
+4A,1,6-month,No,Vertigo
+4A,1,12-month,No,Vertigo
+4A,1,24-month,No,Vertigo
+5A,3,6-month,Yes,Vertigo
+5A,3,12-month,No,Vertigo
+5A,3,24-month,No,Vertigo
+6A,3,6-month,No,Vertigo
+6A,3,12-month,No,Vertigo
+6A,3,24-month,No,Vertigo
+7A,9,6-month,No,Vertigo
+7A,9,12-month,Yes,Vertigo
+7A,9,24-month,Yes,Vertigo
+8A,29,6-month,Yes,Vertigo
+8A,29,12-month,Yes,Vertigo
+8A,29,24-month,Yes,Vertigo
+9A,19,6-month,Yes,Vertigo
+9A,19,12-month,No,Vertigo
+9A,19,24-month,Yes,Vertigo
+10A,30,6-month,Yes,Vertigo
+10A,30,12-month,Yes,Vertigo
+10A,30,24-month,Yes,Vertigo
+11A,27,6-month,Yes,Vertigo
+11A,27,12-month,Yes,Vertigo
+11A,27,24-month,Yes,Vertigo
+12A,23,6-month,Yes,Vertigo
+12A,23,12-month,Yes,Vertigo
+12A,23,24-month,Yes,Vertigo
+13A,24,6-month,Yes,Vertigo
+13A,24,12-month,Yes,Vertigo
+13A,24,24-month,Yes,Vertigo
+14A,1,6-month,No,Vertigo
+14A,1,12-month,No,Vertigo
+14A,1,24-month,No,Vertigo
+15A,7,6-month,Yes,Vertigo
+15A,7,12-month,No,Vertigo
+15A,7,24-month,No,Vertigo
+16A,11,6-month,Yes,Vertigo
+16A,11,12-month,No,Vertigo
+16A,11,24-month,No,Vertigo
+17A,17,6-month,Yes,Vertigo
+17A,17,12-month,No,Vertigo
+17A,17,24-month,Yes,Vertigo
+18A,22,6-month,Yes,Vertigo
+18A,22,12-month,Yes,Vertigo
+18A,22,24-month,Yes,Vertigo
+19A,28,6-month,Yes,Vertigo
+19A,28,12-month,Yes,Vertigo
+19A,28,24-month,Yes,Vertigo
+20A,12,6-month,No,Vertigo
+20A,12,12-month,No,Vertigo
+20A,12,24-month,Yes,Vertigo
+21A,6,6-month,No,Vertigo
+21A,6,12-month,No,Vertigo
+21A,6,24-month,No,Vertigo
+22A,24,6-month,Yes,Vertigo
+22A,24,12-month,No,Vertigo
+22A,24,24-month,Yes,Vertigo
+23A,3,6-month,No,Vertigo
+23A,3,12-month,No,Vertigo
+23A,3,24-month,No,Vertigo
+24A,15,6-month,No,Vertigo
+24A,15,12-month,No,Vertigo
+24A,15,24-month,Yes,Vertigo
+25A,23,6-month,Yes,Vertigo
+25A,23,12-month,Yes,Vertigo
+25A,23,24-month,No,Vertigo
+26A,2,6-month,No,Vertigo
+26A,2,12-month,No,Vertigo
+26A,2,24-month,No,Vertigo
+27A,25,6-month,No,Vertigo
+27A,25,12-month,Yes,Vertigo
+27A,25,24-month,Yes,Vertigo
+28A,4,6-month,No,Vertigo
+28A,4,12-month,No,Vertigo
+28A,4,24-month,No,Vertigo
+29A,27,6-month,Yes,Vertigo
+29A,27,12-month,Yes,Vertigo
+29A,27,24-month,Yes,Vertigo
+30A,26,6-month,No,Vertigo
+30A,26,12-month,Yes,Vertigo
+30A,26,24-month,Yes,Vertigo
+31A,19,6-month,Yes,Vertigo
+31A,19,12-month,No,Vertigo
+31A,19,24-month,No,Vertigo
+32A,2,6-month,No,Vertigo
+32A,2,12-month,No,Vertigo
+32A,2,24-month,No,Vertigo
+33A,7,6-month,Yes,Vertigo
+33A,7,12-month,No,Vertigo
+33A,7,24-month,Yes,Vertigo
+34A,4,6-month,No,Vertigo
+34A,4,12-month,No,Vertigo
+34A,4,24-month,Yes,Vertigo
+35A,10,6-month,No,Vertigo
+35A,10,12-month,Yes,Vertigo
+35A,10,24-month,No,Vertigo
+36A,21,6-month,Yes,Vertigo
+36A,21,12-month,No,Vertigo
+36A,21,24-month,Yes,Vertigo
+37A,28,6-month,Yes,Vertigo
+37A,28,12-month,Yes,Vertigo
+37A,28,24-month,Yes,Vertigo
+38A,9,6-month,Yes,Vertigo
+38A,9,12-month,No,Vertigo
+38A,9,24-month,No,Vertigo
+39A,25,6-month,Yes,Vertigo
+39A,25,12-month,Yes,Vertigo
+39A,25,24-month,Yes,Vertigo
+40A,26,6-month,Yes,Vertigo
+40A,26,12-month,Yes,Vertigo
+40A,26,24-month,No,Vertigo
+41A,7,6-month,Yes,Vertigo
+41A,7,12-month,Yes,Vertigo
+41A,7,24-month,No,Vertigo
+42A,7,6-month,No,Vertigo
+42A,7,12-month,No,Vertigo
+42A,7,24-month,No,Vertigo
+43A,27,6-month,Yes,Vertigo
+43A,27,12-month,Yes,Vertigo
+43A,27,24-month,Yes,Vertigo
+44A,18,6-month,Yes,Vertigo
+44A,18,12-month,No,Vertigo
+44A,18,24-month,Yes,Vertigo
+45A,16,6-month,No,Vertigo
+45A,16,12-month,Yes,Vertigo
+45A,16,24-month,No,Vertigo
+46A,7,6-month,Yes,Vertigo
+46A,7,12-month,No,Vertigo
+46A,7,24-month,No,Vertigo
+47A,27,6-month,Yes,Vertigo
+47A,27,12-month,Yes,Vertigo
+47A,27,24-month,No,Vertigo
+48A,1,6-month,No,Vertigo
+48A,1,12-month,No,Vertigo
+48A,1,24-month,No,Vertigo
+49A,9,6-month,No,Vertigo
+49A,9,12-month,Yes,Vertigo
+49A,9,24-month,Yes,Vertigo
+50A,26,6-month,Yes,Vertigo
+50A,26,12-month,Yes,Vertigo
+50A,26,24-month,Yes,Vertigo
+1A,30,6-month,Yes,Lowering Vision
+1A,30,12-month,Yes,Lowering Vision
+1A,30,24-month,Yes,Lowering Vision
+2A,29,6-month,Yes,Lowering Vision
+2A,29,12-month,Yes,Lowering Vision
+2A,29,24-month,Yes,Lowering Vision
+3A,6,6-month,No,Lowering Vision
+3A,6,12-month,No,Lowering Vision
+3A,6,24-month,No,Lowering Vision
+4A,1,6-month,No,Lowering Vision
+4A,1,12-month,No,Lowering Vision
+4A,1,24-month,No,Lowering Vision
+5A,3,6-month,No,Lowering Vision
+5A,3,12-month,No,Lowering Vision
+5A,3,24-month,Yes,Lowering Vision
+6A,3,6-month,No,Lowering Vision
+6A,3,12-month,No,Lowering Vision
+6A,3,24-month,No,Lowering Vision
+7A,9,6-month,No,Lowering Vision
+7A,9,12-month,Yes,Lowering Vision
+7A,9,24-month,Yes,Lowering Vision
+8A,29,6-month,Yes,Lowering Vision
+8A,29,12-month,Yes,Lowering Vision
+8A,29,24-month,Yes,Lowering Vision
+9A,19,6-month,Yes,Lowering Vision
+9A,19,12-month,Yes,Lowering Vision
+9A,19,24-month,Yes,Lowering Vision
+10A,30,6-month,Yes,Lowering Vision
+10A,30,12-month,Yes,Lowering Vision
+10A,30,24-month,Yes,Lowering Vision
+11A,27,6-month,No,Lowering Vision
+11A,27,12-month,Yes,Lowering Vision
+11A,27,24-month,Yes,Lowering Vision
+12A,23,6-month,Yes,Lowering Vision
+12A,23,12-month,Yes,Lowering Vision
+12A,23,24-month,No,Lowering Vision
+13A,24,6-month,Yes,Lowering Vision
+13A,24,12-month,Yes,Lowering Vision
+13A,24,24-month,Yes,Lowering Vision
+14A,1,6-month,No,Lowering Vision
+14A,1,12-month,No,Lowering Vision
+14A,1,24-month,No,Lowering Vision
+15A,7,6-month,No,Lowering Vision
+15A,7,12-month,No,Lowering Vision
+15A,7,24-month,No,Lowering Vision
+16A,11,6-month,Yes,Lowering Vision
+16A,11,12-month,No,Lowering Vision
+16A,11,24-month,No,Lowering Vision
+17A,17,6-month,Yes,Lowering Vision
+17A,17,12-month,Yes,Lowering Vision
+17A,17,24-month,Yes,Lowering Vision
+18A,22,6-month,No,Lowering Vision
+18A,22,12-month,Yes,Lowering Vision
+18A,22,24-month,No,Lowering Vision
+19A,28,6-month,Yes,Lowering Vision
+19A,28,12-month,Yes,Lowering Vision
+19A,28,24-month,Yes,Lowering Vision
+20A,12,6-month,Yes,Lowering Vision
+20A,12,12-month,No,Lowering Vision
+20A,12,24-month,No,Lowering Vision
+21A,6,6-month,Yes,Lowering Vision
+21A,6,12-month,No,Lowering Vision
+21A,6,24-month,No,Lowering Vision
+22A,24,6-month,Yes,Lowering Vision
+22A,24,12-month,No,Lowering Vision
+22A,24,24-month,Yes,Lowering Vision
+23A,3,6-month,No,Lowering Vision
+23A,3,12-month,No,Lowering Vision
+23A,3,24-month,No,Lowering Vision
+24A,15,6-month,Yes,Lowering Vision
+24A,15,12-month,No,Lowering Vision
+24A,15,24-month,No,Lowering Vision
+25A,23,6-month,Yes,Lowering Vision
+25A,23,12-month,Yes,Lowering Vision
+25A,23,24-month,Yes,Lowering Vision
+26A,2,6-month,No,Lowering Vision
+26A,2,12-month,No,Lowering Vision
+26A,2,24-month,No,Lowering Vision
+27A,25,6-month,Yes,Lowering Vision
+27A,25,12-month,No,Lowering Vision
+27A,25,24-month,Yes,Lowering Vision
+28A,4,6-month,No,Lowering Vision
+28A,4,12-month,No,Lowering Vision
+28A,4,24-month,Yes,Lowering Vision
+29A,27,6-month,Yes,Lowering Vision
+29A,27,12-month,Yes,Lowering Vision
+29A,27,24-month,Yes,Lowering Vision
+30A,26,6-month,Yes,Lowering Vision
+30A,26,12-month,Yes,Lowering Vision
+30A,26,24-month,No,Lowering Vision
+31A,19,6-month,No,Lowering Vision
+31A,19,12-month,Yes,Lowering Vision
+31A,19,24-month,Yes,Lowering Vision
+32A,2,6-month,No,Lowering Vision
+32A,2,12-month,No,Lowering Vision
+32A,2,24-month,No,Lowering Vision
+33A,7,6-month,Yes,Lowering Vision
+33A,7,12-month,No,Lowering Vision
+33A,7,24-month,No,Lowering Vision
+34A,4,6-month,No,Lowering Vision
+34A,4,12-month,Yes,Lowering Vision
+34A,4,24-month,No,Lowering Vision
+35A,10,6-month,Yes,Lowering Vision
+35A,10,12-month,No,Lowering Vision
+35A,10,24-month,Yes,Lowering Vision
+36A,21,6-month,No,Lowering Vision
+36A,21,12-month,Yes,Lowering Vision
+36A,21,24-month,Yes,Lowering Vision
+37A,28,6-month,Yes,Lowering Vision
+37A,28,12-month,Yes,Lowering Vision
+37A,28,24-month,Yes,Lowering Vision
+38A,9,6-month,Yes,Lowering Vision
+38A,9,12-month,No,Lowering Vision
+38A,9,24-month,No,Lowering Vision
+39A,25,6-month,Yes,Lowering Vision
+39A,25,12-month,Yes,Lowering Vision
+39A,25,24-month,Yes,Lowering Vision
+40A,26,6-month,Yes,Lowering Vision
+40A,26,12-month,Yes,Lowering Vision
+40A,26,24-month,Yes,Lowering Vision
+41A,7,6-month,No,Lowering Vision
+41A,7,12-month,No,Lowering Vision
+41A,7,24-month,No,Lowering Vision
+42A,7,6-month,No,Lowering Vision
+42A,7,12-month,No,Lowering Vision
+42A,7,24-month,Yes,Lowering Vision
+43A,27,6-month,Yes,Lowering Vision
+43A,27,12-month,No,Lowering Vision
+43A,27,24-month,Yes,Lowering Vision
+44A,18,6-month,Yes,Lowering Vision
+44A,18,12-month,No,Lowering Vision
+44A,18,24-month,Yes,Lowering Vision
+45A,16,6-month,No,Lowering Vision
+45A,16,12-month,Yes,Lowering Vision
+45A,16,24-month,No,Lowering Vision
+46A,7,6-month,No,Lowering Vision
+46A,7,12-month,No,Lowering Vision
+46A,7,24-month,No,Lowering Vision
+47A,27,6-month,Yes,Lowering Vision
+47A,27,12-month,Yes,Lowering Vision
+47A,27,24-month,Yes,Lowering Vision
+48A,1,6-month,No,Lowering Vision
+48A,1,12-month,No,Lowering Vision
+48A,1,24-month,No,Lowering Vision
+49A,9,6-month,No,Lowering Vision
+49A,9,12-month,No,Lowering Vision
+49A,9,24-month,Yes,Lowering Vision
+50A,26,6-month,Yes,Lowering Vision
+50A,26,12-month,Yes,Lowering Vision
+50A,26,24-month,Yes,Lowering Vision
+1A,30,6-month,Yes,Brain Fog
+1A,30,12-month,Yes,Brain Fog
+1A,30,24-month,Yes,Brain Fog
+2A,29,6-month,Yes,Brain Fog
+2A,29,12-month,Yes,Brain Fog
+2A,29,24-month,Yes,Brain Fog
+3A,6,6-month,No,Brain Fog
+3A,6,12-month,Yes,Brain Fog
+3A,6,24-month,No,Brain Fog
+4A,1,6-month,No,Brain Fog
+4A,1,12-month,No,Brain Fog
+4A,1,24-month,No,Brain Fog
+5A,3,6-month,No,Brain Fog
+5A,3,12-month,No,Brain Fog
+5A,3,24-month,No,Brain Fog
+6A,3,6-month,No,Brain Fog
+6A,3,12-month,No,Brain Fog
+6A,3,24-month,No,Brain Fog
+7A,9,6-month,No,Brain Fog
+7A,9,12-month,No,Brain Fog
+7A,9,24-month,Yes,Brain Fog
+8A,29,6-month,Yes,Brain Fog
+8A,29,12-month,Yes,Brain Fog
+8A,29,24-month,Yes,Brain Fog
+9A,19,6-month,Yes,Brain Fog
+9A,19,12-month,Yes,Brain Fog
+9A,19,24-month,No,Brain Fog
+10A,30,6-month,Yes,Brain Fog
+10A,30,12-month,Yes,Brain Fog
+10A,30,24-month,Yes,Brain Fog
+11A,27,6-month,Yes,Brain Fog
+11A,27,12-month,No,Brain Fog
+11A,27,24-month,Yes,Brain Fog
+12A,23,6-month,No,Brain Fog
+12A,23,12-month,No,Brain Fog
+12A,23,24-month,Yes,Brain Fog
+13A,24,6-month,Yes,Brain Fog
+13A,24,12-month,Yes,Brain Fog
+13A,24,24-month,Yes,Brain Fog
+14A,1,6-month,No,Brain Fog
+14A,1,12-month,No,Brain Fog
+14A,1,24-month,No,Brain Fog
+15A,7,6-month,No,Brain Fog
+15A,7,12-month,No,Brain Fog
+15A,7,24-month,Yes,Brain Fog
+16A,11,6-month,No,Brain Fog
+16A,11,12-month,Yes,Brain Fog
+16A,11,24-month,No,Brain Fog
+17A,17,6-month,Yes,Brain Fog
+17A,17,12-month,Yes,Brain Fog
+17A,17,24-month,Yes,Brain Fog
+18A,22,6-month,Yes,Brain Fog
+18A,22,12-month,Yes,Brain Fog
+18A,22,24-month,Yes,Brain Fog
+19A,28,6-month,Yes,Brain Fog
+19A,28,12-month,Yes,Brain Fog
+19A,28,24-month,Yes,Brain Fog
+20A,12,6-month,Yes,Brain Fog
+20A,12,12-month,Yes,Brain Fog
+20A,12,24-month,No,Brain Fog
+21A,6,6-month,No,Brain Fog
+21A,6,12-month,No,Brain Fog
+21A,6,24-month,No,Brain Fog
+22A,24,6-month,Yes,Brain Fog
+22A,24,12-month,Yes,Brain Fog
+22A,24,24-month,Yes,Brain Fog
+23A,3,6-month,No,Brain Fog
+23A,3,12-month,No,Brain Fog
+23A,3,24-month,No,Brain Fog
+24A,15,6-month,Yes,Brain Fog
+24A,15,12-month,Yes,Brain Fog
+24A,15,24-month,Yes,Brain Fog
+25A,23,6-month,Yes,Brain Fog
+25A,23,12-month,No,Brain Fog
+25A,23,24-month,Yes,Brain Fog
+26A,2,6-month,No,Brain Fog
+26A,2,12-month,No,Brain Fog
+26A,2,24-month,No,Brain Fog
+27A,25,6-month,Yes,Brain Fog
+27A,25,12-month,Yes,Brain Fog
+27A,25,24-month,No,Brain Fog
+28A,4,6-month,No,Brain Fog
+28A,4,12-month,No,Brain Fog
+28A,4,24-month,Yes,Brain Fog
+29A,27,6-month,No,Brain Fog
+29A,27,12-month,Yes,Brain Fog
+29A,27,24-month,Yes,Brain Fog
+30A,26,6-month,Yes,Brain Fog
+30A,26,12-month,Yes,Brain Fog
+30A,26,24-month,Yes,Brain Fog
+31A,19,6-month,Yes,Brain Fog
+31A,19,12-month,No,Brain Fog
+31A,19,24-month,Yes,Brain Fog
+32A,2,6-month,No,Brain Fog
+32A,2,12-month,Yes,Brain Fog
+32A,2,24-month,No,Brain Fog
+33A,7,6-month,No,Brain Fog
+33A,7,12-month,No,Brain Fog
+33A,7,24-month,No,Brain Fog
+34A,4,6-month,No,Brain Fog
+34A,4,12-month,No,Brain Fog
+34A,4,24-month,Yes,Brain Fog
+35A,10,6-month,No,Brain Fog
+35A,10,12-month,Yes,Brain Fog
+35A,10,24-month,No,Brain Fog
+36A,21,6-month,No,Brain Fog
+36A,21,12-month,Yes,Brain Fog
+36A,21,24-month,Yes,Brain Fog
+37A,28,6-month,Yes,Brain Fog
+37A,28,12-month,Yes,Brain Fog
+37A,28,24-month,Yes,Brain Fog
+38A,9,6-month,Yes,Brain Fog
+38A,9,12-month,No,Brain Fog
+38A,9,24-month,No,Brain Fog
+39A,25,6-month,Yes,Brain Fog
+39A,25,12-month,No,Brain Fog
+39A,25,24-month,No,Brain Fog
+40A,26,6-month,Yes,Brain Fog
+40A,26,12-month,Yes,Brain Fog
+40A,26,24-month,Yes,Brain Fog
+41A,7,6-month,No,Brain Fog
+41A,7,12-month,Yes,Brain Fog
+41A,7,24-month,Yes,Brain Fog
+42A,7,6-month,No,Brain Fog
+42A,7,12-month,Yes,Brain Fog
+42A,7,24-month,No,Brain Fog
+43A,27,6-month,Yes,Brain Fog
+43A,27,12-month,No,Brain Fog
+43A,27,24-month,Yes,Brain Fog
+44A,18,6-month,No,Brain Fog
+44A,18,12-month,No,Brain Fog
+44A,18,24-month,No,Brain Fog
+45A,16,6-month,Yes,Brain Fog
+45A,16,12-month,Yes,Brain Fog
+45A,16,24-month,Yes,Brain Fog
+46A,7,6-month,Yes,Brain Fog
+46A,7,12-month,No,Brain Fog
+46A,7,24-month,No,Brain Fog
+47A,27,6-month,Yes,Brain Fog
+47A,27,12-month,Yes,Brain Fog
+47A,27,24-month,No,Brain Fog
+48A,1,6-month,No,Brain Fog
+48A,1,12-month,No,Brain Fog
+48A,1,24-month,No,Brain Fog
+49A,9,6-month,Yes,Brain Fog
+49A,9,12-month,No,Brain Fog
+49A,9,24-month,Yes,Brain Fog
+50A,26,6-month,Yes,Brain Fog
+50A,26,12-month,Yes,Brain Fog
+50A,26,24-month,Yes,Brain Fog
+1A,30,6-month,Yes,Hair Loss
+1A,30,12-month,Yes,Hair Loss
+1A,30,24-month,Yes,Hair Loss
+2A,29,6-month,Yes,Hair Loss
+2A,29,12-month,Yes,Hair Loss
+2A,29,24-month,Yes,Hair Loss
+3A,6,6-month,No,Hair Loss
+3A,6,12-month,No,Hair Loss
+3A,6,24-month,No,Hair Loss
+4A,1,6-month,No,Hair Loss
+4A,1,12-month,No,Hair Loss
+4A,1,24-month,No,Hair Loss
+5A,3,6-month,No,Hair Loss
+5A,3,12-month,Yes,Hair Loss
+5A,3,24-month,No,Hair Loss
+6A,3,6-month,No,Hair Loss
+6A,3,12-month,No,Hair Loss
+6A,3,24-month,No,Hair Loss
+7A,9,6-month,No,Hair Loss
+7A,9,12-month,Yes,Hair Loss
+7A,9,24-month,Yes,Hair Loss
+8A,29,6-month,Yes,Hair Loss
+8A,29,12-month,Yes,Hair Loss
+8A,29,24-month,Yes,Hair Loss
+9A,19,6-month,No,Hair Loss
+9A,19,12-month,Yes,Hair Loss
+9A,19,24-month,Yes,Hair Loss
+10A,30,6-month,Yes,Hair Loss
+10A,30,12-month,Yes,Hair Loss
+10A,30,24-month,Yes,Hair Loss
+11A,27,6-month,Yes,Hair Loss
+11A,27,12-month,Yes,Hair Loss
+11A,27,24-month,Yes,Hair Loss
+12A,23,6-month,Yes,Hair Loss
+12A,23,12-month,No,Hair Loss
+12A,23,24-month,No,Hair Loss
+13A,24,6-month,Yes,Hair Loss
+13A,24,12-month,No,Hair Loss
+13A,24,24-month,No,Hair Loss
+14A,1,6-month,Yes,Hair Loss
+14A,1,12-month,No,Hair Loss
+14A,1,24-month,No,Hair Loss
+15A,7,6-month,Yes,Hair Loss
+15A,7,12-month,No,Hair Loss
+15A,7,24-month,No,Hair Loss
+16A,11,6-month,Yes,Hair Loss
+16A,11,12-month,Yes,Hair Loss
+16A,11,24-month,Yes,Hair Loss
+17A,17,6-month,Yes,Hair Loss
+17A,17,12-month,Yes,Hair Loss
+17A,17,24-month,Yes,Hair Loss
+18A,22,6-month,No,Hair Loss
+18A,22,12-month,No,Hair Loss
+18A,22,24-month,Yes,Hair Loss
+19A,28,6-month,Yes,Hair Loss
+19A,28,12-month,Yes,Hair Loss
+19A,28,24-month,Yes,Hair Loss
+20A,12,6-month,No,Hair Loss
+20A,12,12-month,No,Hair Loss
+20A,12,24-month,No,Hair Loss
+21A,6,6-month,No,Hair Loss
+21A,6,12-month,No,Hair Loss
+21A,6,24-month,Yes,Hair Loss
+22A,24,6-month,Yes,Hair Loss
+22A,24,12-month,Yes,Hair Loss
+22A,24,24-month,No,Hair Loss
+23A,3,6-month,No,Hair Loss
+23A,3,12-month,No,Hair Loss
+23A,3,24-month,No,Hair Loss
+24A,15,6-month,Yes,Hair Loss
+24A,15,12-month,No,Hair Loss
+24A,15,24-month,Yes,Hair Loss
+25A,23,6-month,Yes,Hair Loss
+25A,23,12-month,Yes,Hair Loss
+25A,23,24-month,No,Hair Loss
+26A,2,6-month,No,Hair Loss
+26A,2,12-month,No,Hair Loss
+26A,2,24-month,No,Hair Loss
+27A,25,6-month,Yes,Hair Loss
+27A,25,12-month,Yes,Hair Loss
+27A,25,24-month,Yes,Hair Loss
+28A,4,6-month,No,Hair Loss
+28A,4,12-month,No,Hair Loss
+28A,4,24-month,Yes,Hair Loss
+29A,27,6-month,Yes,Hair Loss
+29A,27,12-month,Yes,Hair Loss
+29A,27,24-month,Yes,Hair Loss
+30A,26,6-month,Yes,Hair Loss
+30A,26,12-month,No,Hair Loss
+30A,26,24-month,Yes,Hair Loss
+31A,19,6-month,Yes,Hair Loss
+31A,19,12-month,Yes,Hair Loss
+31A,19,24-month,No,Hair Loss
+32A,2,6-month,Yes,Hair Loss
+32A,2,12-month,No,Hair Loss
+32A,2,24-month,No,Hair Loss
+33A,7,6-month,No,Hair Loss
+33A,7,12-month,No,Hair Loss
+33A,7,24-month,No,Hair Loss
+34A,4,6-month,No,Hair Loss
+34A,4,12-month,No,Hair Loss
+34A,4,24-month,No,Hair Loss
+35A,10,6-month,Yes,Hair Loss
+35A,10,12-month,No,Hair Loss
+35A,10,24-month,No,Hair Loss
+36A,21,6-month,Yes,Hair Loss
+36A,21,12-month,No,Hair Loss
+36A,21,24-month,Yes,Hair Loss
+37A,28,6-month,Yes,Hair Loss
+37A,28,12-month,Yes,Hair Loss
+37A,28,24-month,Yes,Hair Loss
+38A,9,6-month,Yes,Hair Loss
+38A,9,12-month,No,Hair Loss
+38A,9,24-month,Yes,Hair Loss
+39A,25,6-month,Yes,Hair Loss
+39A,25,12-month,Yes,Hair Loss
+39A,25,24-month,Yes,Hair Loss
+40A,26,6-month,Yes,Hair Loss
+40A,26,12-month,Yes,Hair Loss
+40A,26,24-month,No,Hair Loss
+41A,7,6-month,No,Hair Loss
+41A,7,12-month,Yes,Hair Loss
+41A,7,24-month,Yes,Hair Loss
+42A,7,6-month,No,Hair Loss
+42A,7,12-month,No,Hair Loss
+42A,7,24-month,No,Hair Loss
+43A,27,6-month,Yes,Hair Loss
+43A,27,12-month,Yes,Hair Loss
+43A,27,24-month,Yes,Hair Loss
+44A,18,6-month,Yes,Hair Loss
+44A,18,12-month,No,Hair Loss
+44A,18,24-month,No,Hair Loss
+45A,16,6-month,Yes,Hair Loss
+45A,16,12-month,Yes,Hair Loss
+45A,16,24-month,Yes,Hair Loss
+46A,7,6-month,No,Hair Loss
+46A,7,12-month,Yes,Hair Loss
+46A,7,24-month,No,Hair Loss
+47A,27,6-month,Yes,Hair Loss
+47A,27,12-month,Yes,Hair Loss
+47A,27,24-month,Yes,Hair Loss
+48A,1,6-month,No,Hair Loss
+48A,1,12-month,No,Hair Loss
+48A,1,24-month,No,Hair Loss
+49A,9,6-month,No,Hair Loss
+49A,9,12-month,No,Hair Loss
+49A,9,24-month,No,Hair Loss
+50A,26,6-month,No,Hair Loss
+50A,26,12-month,Yes,Hair Loss
+50A,26,24-month,Yes,Hair Loss

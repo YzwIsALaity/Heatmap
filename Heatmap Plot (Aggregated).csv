@@ -1,0 +1,433 @@
+Symptom.PriorTimepoint,Symptom.LaterTimepoint,Corr,Comparison
+Fatigue,Fatigue,0.991759911,Acute vs 6-month
+Fatigue,Headache,0.082700537,Acute vs 6-month
+Fatigue,Body aches,-0.292726894,Acute vs 6-month
+Fatigue,Difficult breating,-0.097453283,Acute vs 6-month
+Fatigue,Loss or alter taste/smell,-0.574514671,Acute vs 6-month
+Fatigue,Joint pain,-0.188976183,Acute vs 6-month
+Fatigue,Vertigo/dizzy,0.882269129,Acute vs 6-month
+Fatigue,Lower vision,0.049442539,Acute vs 6-month
+Fatigue,Brain fog,0.726845847,Acute vs 6-month
+Fatigue,Hair loss,-0.109061945,Acute vs 6-month
+Fatigue,Gastrointestinal,-0.719645645,Acute vs 6-month
+Fatigue,Difficult sleeping,-0.921541386,Acute vs 6-month
+Headache,Fatigue,-0.163562746,Acute vs 6-month
+Headache,Headache,0.834418106,Acute vs 6-month
+Headache,Body aches,-0.312595537,Acute vs 6-month
+Headache,Difficult breating,0.253408331,Acute vs 6-month
+Headache,Loss or alter taste/smell,0.741220914,Acute vs 6-month
+Headache,Joint pain,-0.383188696,Acute vs 6-month
+Headache,Vertigo/dizzy,0.000412448,Acute vs 6-month
+Headache,Lower vision,-0.320474766,Acute vs 6-month
+Headache,Brain fog,0.72482287,Acute vs 6-month
+Headache,Hair loss,0.281945721,Acute vs 6-month
+Headache,Gastrointestinal,-0.131263395,Acute vs 6-month
+Headache,Difficult sleeping,-0.686614513,Acute vs 6-month
+Body aches,Fatigue,-0.752544765,Acute vs 6-month
+Body aches,Headache,-0.034172023,Acute vs 6-month
+Body aches,Body aches,0.33332874,Acute vs 6-month
+Body aches,Difficult breating,0.120182042,Acute vs 6-month
+Body aches,Loss or alter taste/smell,-0.406116008,Acute vs 6-month
+Body aches,Joint pain,-0.079776971,Acute vs 6-month
+Body aches,Vertigo/dizzy,-0.697669507,Acute vs 6-month
+Body aches,Lower vision,0.938900375,Acute vs 6-month
+Body aches,Brain fog,0.758060141,Acute vs 6-month
+Body aches,Hair loss,-0.20572971,Acute vs 6-month
+Body aches,Gastrointestinal,0.722806266,Acute vs 6-month
+Body aches,Difficult sleeping,0.361069737,Acute vs 6-month
+Difficult breating,Fatigue,0.560922073,Acute vs 6-month
+Difficult breating,Headache,-0.845024349,Acute vs 6-month
+Difficult breating,Body aches,-0.837307247,Acute vs 6-month
+Difficult breating,Difficult breating,0.740942457,Acute vs 6-month
+Difficult breating,Loss or alter taste/smell,0.118243326,Acute vs 6-month
+Difficult breating,Joint pain,-0.974091841,Acute vs 6-month
+Difficult breating,Vertigo/dizzy,-0.565921138,Acute vs 6-month
+Difficult breating,Lower vision,0.225431939,Acute vs 6-month
+Difficult breating,Brain fog,-0.511789079,Acute vs 6-month
+Difficult breating,Hair loss,0.796123985,Acute vs 6-month
+Difficult breating,Gastrointestinal,-0.29272327,Acute vs 6-month
+Difficult breating,Difficult sleeping,-0.229527597,Acute vs 6-month
+Loss or alter taste/smell,Fatigue,0.184889275,Acute vs 6-month
+Loss or alter taste/smell,Headache,0.412862555,Acute vs 6-month
+Loss or alter taste/smell,Body aches,0.109296617,Acute vs 6-month
+Loss or alter taste/smell,Difficult breating,-0.700266594,Acute vs 6-month
+Loss or alter taste/smell,Loss or alter taste/smell,0.388883926,Acute vs 6-month
+Loss or alter taste/smell,Joint pain,-0.76404539,Acute vs 6-month
+Loss or alter taste/smell,Vertigo/dizzy,-0.260370845,Acute vs 6-month
+Loss or alter taste/smell,Lower vision,0.027221269,Acute vs 6-month
+Loss or alter taste/smell,Brain fog,-0.444951553,Acute vs 6-month
+Loss or alter taste/smell,Hair loss,-0.289877526,Acute vs 6-month
+Loss or alter taste/smell,Gastrointestinal,-0.240300108,Acute vs 6-month
+Loss or alter taste/smell,Difficult sleeping,-0.419226251,Acute vs 6-month
+Joint pain,Fatigue,0.958484868,Acute vs 6-month
+Joint pain,Headache,-0.611628253,Acute vs 6-month
+Joint pain,Body aches,-0.078862615,Acute vs 6-month
+Joint pain,Difficult breating,-0.259006044,Acute vs 6-month
+Joint pain,Loss or alter taste/smell,0.776854479,Acute vs 6-month
+Joint pain,Joint pain,-0.514285768,Acute vs 6-month
+Joint pain,Vertigo/dizzy,0.0588964,Acute vs 6-month
+Joint pain,Lower vision,0.677361158,Acute vs 6-month
+Joint pain,Brain fog,-0.698023414,Acute vs 6-month
+Joint pain,Hair loss,-0.185613738,Acute vs 6-month
+Joint pain,Gastrointestinal,0.207328884,Acute vs 6-month
+Joint pain,Difficult sleeping,-0.862097005,Acute vs 6-month
+Vertigo/dizzy,Fatigue,0.550291558,Acute vs 6-month
+Vertigo/dizzy,Headache,-0.744006963,Acute vs 6-month
+Vertigo/dizzy,Body aches,-0.506346378,Acute vs 6-month
+Vertigo/dizzy,Difficult breating,-0.276045993,Acute vs 6-month
+Vertigo/dizzy,Loss or alter taste/smell,-0.217215438,Acute vs 6-month
+Vertigo/dizzy,Joint pain,-0.84403604,Acute vs 6-month
+Vertigo/dizzy,Vertigo/dizzy,0.69150677,Acute vs 6-month
+Vertigo/dizzy,Lower vision,-0.044880122,Acute vs 6-month
+Vertigo/dizzy,Brain fog,0.100924018,Acute vs 6-month
+Vertigo/dizzy,Hair loss,-0.87268928,Acute vs 6-month
+Vertigo/dizzy,Gastrointestinal,-0.659053371,Acute vs 6-month
+Vertigo/dizzy,Difficult sleeping,0.879365713,Acute vs 6-month
+Lower vision,Fatigue,-0.224328992,Acute vs 6-month
+Lower vision,Headache,0.870581798,Acute vs 6-month
+Lower vision,Body aches,0.295535789,Acute vs 6-month
+Lower vision,Difficult breating,-0.714727665,Acute vs 6-month
+Lower vision,Loss or alter taste/smell,-0.428705817,Acute vs 6-month
+Lower vision,Joint pain,-0.876552562,Acute vs 6-month
+Lower vision,Vertigo/dizzy,0.974372626,Acute vs 6-month
+Lower vision,Lower vision,0.187426039,Acute vs 6-month
+Lower vision,Brain fog,0.319103162,Acute vs 6-month
+Lower vision,Hair loss,-0.683775858,Acute vs 6-month
+Lower vision,Gastrointestinal,0.855192299,Acute vs 6-month
+Lower vision,Difficult sleeping,0.948208585,Acute vs 6-month
+Brain fog,Fatigue,0.270516902,Acute vs 6-month
+Brain fog,Headache,0.518878005,Acute vs 6-month
+Brain fog,Body aches,-0.76777608,Acute vs 6-month
+Brain fog,Difficult breating,0.562013978,Acute vs 6-month
+Brain fog,Loss or alter taste/smell,-0.397641098,Acute vs 6-month
+Brain fog,Joint pain,0.009706368,Acute vs 6-month
+Brain fog,Vertigo/dizzy,0.641114315,Acute vs 6-month
+Brain fog,Lower vision,-0.423372549,Acute vs 6-month
+Brain fog,Brain fog,-0.277350409,Acute vs 6-month
+Brain fog,Hair loss,0.237747425,Acute vs 6-month
+Brain fog,Gastrointestinal,0.623730062,Acute vs 6-month
+Brain fog,Difficult sleeping,0.876018161,Acute vs 6-month
+Hair loss,Fatigue,0.137557586,Acute vs 6-month
+Hair loss,Headache,-0.593934773,Acute vs 6-month
+Hair loss,Body aches,-0.30668019,Acute vs 6-month
+Hair loss,Difficult breating,0.956029922,Acute vs 6-month
+Hair loss,Loss or alter taste/smell,-0.987581308,Acute vs 6-month
+Hair loss,Joint pain,0.521471736,Acute vs 6-month
+Hair loss,Vertigo/dizzy,-0.388906877,Acute vs 6-month
+Hair loss,Lower vision,0.95776614,Acute vs 6-month
+Hair loss,Brain fog,-0.382371353,Acute vs 6-month
+Hair loss,Hair loss,0.398464966,Acute vs 6-month
+Hair loss,Gastrointestinal,0.906195568,Acute vs 6-month
+Hair loss,Difficult sleeping,-0.068597845,Acute vs 6-month
+Gastrointestinal,Fatigue,0.743892606,Acute vs 6-month
+Gastrointestinal,Headache,0.340108481,Acute vs 6-month
+Gastrointestinal,Body aches,0.396807893,Acute vs 6-month
+Gastrointestinal,Difficult breating,0.758930857,Acute vs 6-month
+Gastrointestinal,Loss or alter taste/smell,0.061971286,Acute vs 6-month
+Gastrointestinal,Joint pain,-0.371490883,Acute vs 6-month
+Gastrointestinal,Vertigo/dizzy,-0.928346585,Acute vs 6-month
+Gastrointestinal,Lower vision,0.153608238,Acute vs 6-month
+Gastrointestinal,Brain fog,-0.536973108,Acute vs 6-month
+Gastrointestinal,Hair loss,-0.742151828,Acute vs 6-month
+Gastrointestinal,Gastrointestinal,-0.418927392,Acute vs 6-month
+Gastrointestinal,Difficult sleeping,0.624744517,Acute vs 6-month
+Difficult sleeping,Fatigue,0.895277068,Acute vs 6-month
+Difficult sleeping,Headache,0.812396058,Acute vs 6-month
+Difficult sleeping,Body aches,0.282411799,Acute vs 6-month
+Difficult sleeping,Difficult breating,-0.362870279,Acute vs 6-month
+Difficult sleeping,Loss or alter taste/smell,0.674108907,Acute vs 6-month
+Difficult sleeping,Joint pain,0.926636734,Acute vs 6-month
+Difficult sleeping,Vertigo/dizzy,-0.14205605,Acute vs 6-month
+Difficult sleeping,Lower vision,-0.950683579,Acute vs 6-month
+Difficult sleeping,Brain fog,-0.167974619,Acute vs 6-month
+Difficult sleeping,Hair loss,-0.23654054,Acute vs 6-month
+Difficult sleeping,Gastrointestinal,-0.199421193,Acute vs 6-month
+Difficult sleeping,Difficult sleeping,-0.910132185,Acute vs 6-month
+Fatigue,Fatigue,0.572288768,6-month vs 12-month
+Fatigue,Headache,0.947494405,6-month vs 12-month
+Fatigue,Body aches,0.202789414,6-month vs 12-month
+Fatigue,Difficult breating,-0.894338918,6-month vs 12-month
+Fatigue,Loss or alter taste/smell,0.58980856,6-month vs 12-month
+Fatigue,Joint pain,-0.010434506,6-month vs 12-month
+Fatigue,Vertigo/dizzy,-0.877799917,6-month vs 12-month
+Fatigue,Lower vision,-0.651862238,6-month vs 12-month
+Fatigue,Brain fog,-0.381672352,6-month vs 12-month
+Fatigue,Hair loss,-0.794344954,6-month vs 12-month
+Fatigue,Gastrointestinal,0.711480951,6-month vs 12-month
+Fatigue,Difficult sleeping,0.09090011,6-month vs 12-month
+Headache,Fatigue,-0.674722733,6-month vs 12-month
+Headache,Headache,-0.61174862,6-month vs 12-month
+Headache,Body aches,0.891772356,6-month vs 12-month
+Headache,Difficult breating,-0.768340447,6-month vs 12-month
+Headache,Loss or alter taste/smell,0.721291203,6-month vs 12-month
+Headache,Joint pain,-0.808224547,6-month vs 12-month
+Headache,Vertigo/dizzy,-0.720151803,6-month vs 12-month
+Headache,Lower vision,0.618316827,6-month vs 12-month
+Headache,Brain fog,0.84868364,6-month vs 12-month
+Headache,Hair loss,-0.686343089,6-month vs 12-month
+Headache,Gastrointestinal,-0.639505257,6-month vs 12-month
+Headache,Difficult sleeping,0.83844853,6-month vs 12-month
+Body aches,Fatigue,-0.597174831,6-month vs 12-month
+Body aches,Headache,-0.717453304,6-month vs 12-month
+Body aches,Body aches,-0.445466926,6-month vs 12-month
+Body aches,Difficult breating,-0.043459255,6-month vs 12-month
+Body aches,Loss or alter taste/smell,-0.034767261,6-month vs 12-month
+Body aches,Joint pain,-0.82733809,6-month vs 12-month
+Body aches,Vertigo/dizzy,0.542092668,6-month vs 12-month
+Body aches,Lower vision,-0.69151726,6-month vs 12-month
+Body aches,Brain fog,0.514512825,6-month vs 12-month
+Body aches,Hair loss,-0.951691264,6-month vs 12-month
+Body aches,Gastrointestinal,0.973765434,6-month vs 12-month
+Body aches,Difficult sleeping,0.10966055,6-month vs 12-month
+Difficult breating,Fatigue,0.627862462,6-month vs 12-month
+Difficult breating,Headache,-0.52524473,6-month vs 12-month
+Difficult breating,Body aches,0.125317447,6-month vs 12-month
+Difficult breating,Difficult breating,-0.418770164,6-month vs 12-month
+Difficult breating,Loss or alter taste/smell,0.976748358,6-month vs 12-month
+Difficult breating,Joint pain,-0.430339823,6-month vs 12-month
+Difficult breating,Vertigo/dizzy,-0.032420713,6-month vs 12-month
+Difficult breating,Lower vision,-0.365249789,6-month vs 12-month
+Difficult breating,Brain fog,0.565118375,6-month vs 12-month
+Difficult breating,Hair loss,-0.137881667,6-month vs 12-month
+Difficult breating,Gastrointestinal,0.700723517,6-month vs 12-month
+Difficult breating,Difficult sleeping,0.592742045,6-month vs 12-month
+Loss or alter taste/smell,Fatigue,0.565006022,6-month vs 12-month
+Loss or alter taste/smell,Headache,0.812901163,6-month vs 12-month
+Loss or alter taste/smell,Body aches,-0.999994138,6-month vs 12-month
+Loss or alter taste/smell,Difficult breating,0.371741427,6-month vs 12-month
+Loss or alter taste/smell,Loss or alter taste/smell,0.813383659,6-month vs 12-month
+Loss or alter taste/smell,Joint pain,0.401284429,6-month vs 12-month
+Loss or alter taste/smell,Vertigo/dizzy,-0.147225954,6-month vs 12-month
+Loss or alter taste/smell,Lower vision,-0.577084204,6-month vs 12-month
+Loss or alter taste/smell,Brain fog,-0.089243513,6-month vs 12-month
+Loss or alter taste/smell,Hair loss,0.997294243,6-month vs 12-month
+Loss or alter taste/smell,Gastrointestinal,0.677733891,6-month vs 12-month
+Loss or alter taste/smell,Difficult sleeping,0.211729587,6-month vs 12-month
+Joint pain,Fatigue,0.107443437,6-month vs 12-month
+Joint pain,Headache,-0.741381693,6-month vs 12-month
+Joint pain,Body aches,0.36326815,6-month vs 12-month
+Joint pain,Difficult breating,0.070013962,6-month vs 12-month
+Joint pain,Loss or alter taste/smell,-0.64688058,6-month vs 12-month
+Joint pain,Joint pain,0.970027144,6-month vs 12-month
+Joint pain,Vertigo/dizzy,-0.608981578,6-month vs 12-month
+Joint pain,Lower vision,0.48961865,6-month vs 12-month
+Joint pain,Brain fog,0.841129744,6-month vs 12-month
+Joint pain,Hair loss,-0.516808779,6-month vs 12-month
+Joint pain,Gastrointestinal,0.794613633,6-month vs 12-month
+Joint pain,Difficult sleeping,-0.648140984,6-month vs 12-month
+Vertigo/dizzy,Fatigue,-0.172591744,6-month vs 12-month
+Vertigo/dizzy,Headache,-0.958127606,6-month vs 12-month
+Vertigo/dizzy,Body aches,0.373229213,6-month vs 12-month
+Vertigo/dizzy,Difficult breating,0.859808805,6-month vs 12-month
+Vertigo/dizzy,Loss or alter taste/smell,0.321836329,6-month vs 12-month
+Vertigo/dizzy,Joint pain,0.010692859,6-month vs 12-month
+Vertigo/dizzy,Vertigo/dizzy,0.693107862,6-month vs 12-month
+Vertigo/dizzy,Lower vision,-0.754497623,6-month vs 12-month
+Vertigo/dizzy,Brain fog,0.003324643,6-month vs 12-month
+Vertigo/dizzy,Hair loss,-0.430587061,6-month vs 12-month
+Vertigo/dizzy,Gastrointestinal,-0.328548803,6-month vs 12-month
+Vertigo/dizzy,Difficult sleeping,-0.085018477,6-month vs 12-month
+Lower vision,Fatigue,-0.187627962,6-month vs 12-month
+Lower vision,Headache,0.424579268,6-month vs 12-month
+Lower vision,Body aches,0.727111625,6-month vs 12-month
+Lower vision,Difficult breating,0.671777682,6-month vs 12-month
+Lower vision,Loss or alter taste/smell,-0.456286859,6-month vs 12-month
+Lower vision,Joint pain,-0.482876074,6-month vs 12-month
+Lower vision,Vertigo/dizzy,-0.968688699,6-month vs 12-month
+Lower vision,Lower vision,0.32122008,6-month vs 12-month
+Lower vision,Brain fog,-0.732888571,6-month vs 12-month
+Lower vision,Hair loss,0.025194503,6-month vs 12-month
+Lower vision,Gastrointestinal,-0.518422416,6-month vs 12-month
+Lower vision,Difficult sleeping,0.069814348,6-month vs 12-month
+Brain fog,Fatigue,0.730450759,6-month vs 12-month
+Brain fog,Headache,0.316000562,6-month vs 12-month
+Brain fog,Body aches,0.518421758,6-month vs 12-month
+Brain fog,Difficult breating,0.076358523,6-month vs 12-month
+Brain fog,Loss or alter taste/smell,0.194773926,6-month vs 12-month
+Brain fog,Joint pain,0.274901537,6-month vs 12-month
+Brain fog,Vertigo/dizzy,-0.880777825,6-month vs 12-month
+Brain fog,Lower vision,-0.330405768,6-month vs 12-month
+Brain fog,Brain fog,0.195787968,6-month vs 12-month
+Brain fog,Hair loss,-0.665581203,6-month vs 12-month
+Brain fog,Gastrointestinal,0.041331398,6-month vs 12-month
+Brain fog,Difficult sleeping,-0.503551676,6-month vs 12-month
+Hair loss,Fatigue,0.235307649,6-month vs 12-month
+Hair loss,Headache,0.581987518,6-month vs 12-month
+Hair loss,Body aches,-0.43334208,6-month vs 12-month
+Hair loss,Difficult breating,0.385629734,6-month vs 12-month
+Hair loss,Loss or alter taste/smell,0.872890506,6-month vs 12-month
+Hair loss,Joint pain,0.958260049,6-month vs 12-month
+Hair loss,Vertigo/dizzy,0.954030418,6-month vs 12-month
+Hair loss,Lower vision,-0.956945666,6-month vs 12-month
+Hair loss,Brain fog,-0.666788871,6-month vs 12-month
+Hair loss,Hair loss,0.432430998,6-month vs 12-month
+Hair loss,Gastrointestinal,-0.985202366,6-month vs 12-month
+Hair loss,Difficult sleeping,0.858105103,6-month vs 12-month
+Gastrointestinal,Fatigue,0.61191662,6-month vs 12-month
+Gastrointestinal,Headache,0.658325496,6-month vs 12-month
+Gastrointestinal,Body aches,-0.444323793,6-month vs 12-month
+Gastrointestinal,Difficult breating,0.383754035,6-month vs 12-month
+Gastrointestinal,Loss or alter taste/smell,-0.885661549,6-month vs 12-month
+Gastrointestinal,Joint pain,0.127100548,6-month vs 12-month
+Gastrointestinal,Vertigo/dizzy,-0.013176948,6-month vs 12-month
+Gastrointestinal,Lower vision,-0.443761207,6-month vs 12-month
+Gastrointestinal,Brain fog,-0.119953793,6-month vs 12-month
+Gastrointestinal,Hair loss,-0.424288412,6-month vs 12-month
+Gastrointestinal,Gastrointestinal,0.330769456,6-month vs 12-month
+Gastrointestinal,Difficult sleeping,-0.889997649,6-month vs 12-month
+Difficult sleeping,Fatigue,-0.31748396,6-month vs 12-month
+Difficult sleeping,Headache,-0.631455552,6-month vs 12-month
+Difficult sleeping,Body aches,0.630153275,6-month vs 12-month
+Difficult sleeping,Difficult breating,0.571833893,6-month vs 12-month
+Difficult sleeping,Loss or alter taste/smell,-0.990442649,6-month vs 12-month
+Difficult sleeping,Joint pain,-0.295814729,6-month vs 12-month
+Difficult sleeping,Vertigo/dizzy,-0.986185032,6-month vs 12-month
+Difficult sleeping,Lower vision,-0.305207994,6-month vs 12-month
+Difficult sleeping,Brain fog,-0.985882109,6-month vs 12-month
+Difficult sleeping,Hair loss,-0.281838952,6-month vs 12-month
+Difficult sleeping,Gastrointestinal,0.238382167,6-month vs 12-month
+Difficult sleeping,Difficult sleeping,0.648938497,6-month vs 12-month
+Fatigue,Fatigue,0.534041567,12-month vs 24-month
+Fatigue,Headache,0.76133949,12-month vs 24-month
+Fatigue,Body aches,-0.924080824,12-month vs 24-month
+Fatigue,Difficult breating,0.642873774,12-month vs 24-month
+Fatigue,Loss or alter taste/smell,0.62162781,12-month vs 24-month
+Fatigue,Joint pain,-0.994122379,12-month vs 24-month
+Fatigue,Vertigo/dizzy,-0.051994481,12-month vs 24-month
+Fatigue,Lower vision,-0.927944506,12-month vs 24-month
+Fatigue,Brain fog,0.759562056,12-month vs 24-month
+Fatigue,Hair loss,0.616264213,12-month vs 24-month
+Fatigue,Gastrointestinal,-0.802469506,12-month vs 24-month
+Fatigue,Difficult sleeping,-0.283940655,12-month vs 24-month
+Headache,Fatigue,-0.271962218,12-month vs 24-month
+Headache,Headache,0.787153853,12-month vs 24-month
+Headache,Body aches,-0.587579033,12-month vs 24-month
+Headache,Difficult breating,0.046033798,12-month vs 24-month
+Headache,Loss or alter taste/smell,-0.127299057,12-month vs 24-month
+Headache,Joint pain,0.007172504,12-month vs 24-month
+Headache,Vertigo/dizzy,-0.435906923,12-month vs 24-month
+Headache,Lower vision,0.282661612,12-month vs 24-month
+Headache,Brain fog,-0.857118594,12-month vs 24-month
+Headache,Hair loss,-0.20675531,12-month vs 24-month
+Headache,Gastrointestinal,-0.507257535,12-month vs 24-month
+Headache,Difficult sleeping,-0.344630403,12-month vs 24-month
+Body aches,Fatigue,0.455730997,12-month vs 24-month
+Body aches,Headache,0.058700842,12-month vs 24-month
+Body aches,Body aches,0.67889074,12-month vs 24-month
+Body aches,Difficult breating,0.770069881,12-month vs 24-month
+Body aches,Loss or alter taste/smell,0.465694461,12-month vs 24-month
+Body aches,Joint pain,-0.405185236,12-month vs 24-month
+Body aches,Vertigo/dizzy,-0.15122253,12-month vs 24-month
+Body aches,Lower vision,-0.516738388,12-month vs 24-month
+Body aches,Brain fog,0.896690111,12-month vs 24-month
+Body aches,Hair loss,-0.089646611,12-month vs 24-month
+Body aches,Gastrointestinal,-0.016241209,12-month vs 24-month
+Body aches,Difficult sleeping,0.67561348,12-month vs 24-month
+Difficult breating,Fatigue,0.593489013,12-month vs 24-month
+Difficult breating,Headache,0.201047191,12-month vs 24-month
+Difficult breating,Body aches,-0.991354054,12-month vs 24-month
+Difficult breating,Difficult breating,0.250346344,12-month vs 24-month
+Difficult breating,Loss or alter taste/smell,0.662767677,12-month vs 24-month
+Difficult breating,Joint pain,0.947159495,12-month vs 24-month
+Difficult breating,Vertigo/dizzy,0.200262303,12-month vs 24-month
+Difficult breating,Lower vision,0.651968941,12-month vs 24-month
+Difficult breating,Brain fog,-0.653100175,12-month vs 24-month
+Difficult breating,Hair loss,0.404436226,12-month vs 24-month
+Difficult breating,Gastrointestinal,-0.451479712,12-month vs 24-month
+Difficult breating,Difficult sleeping,0.180824957,12-month vs 24-month
+Loss or alter taste/smell,Fatigue,0.372923864,12-month vs 24-month
+Loss or alter taste/smell,Headache,0.762577587,12-month vs 24-month
+Loss or alter taste/smell,Body aches,0.918791662,12-month vs 24-month
+Loss or alter taste/smell,Difficult breating,-0.488655955,12-month vs 24-month
+Loss or alter taste/smell,Loss or alter taste/smell,0.809759557,12-month vs 24-month
+Loss or alter taste/smell,Joint pain,0.163351477,12-month vs 24-month
+Loss or alter taste/smell,Vertigo/dizzy,0.80048084,12-month vs 24-month
+Loss or alter taste/smell,Lower vision,0.553027349,12-month vs 24-month
+Loss or alter taste/smell,Brain fog,0.799532461,12-month vs 24-month
+Loss or alter taste/smell,Hair loss,0.28785608,12-month vs 24-month
+Loss or alter taste/smell,Gastrointestinal,-0.456315396,12-month vs 24-month
+Loss or alter taste/smell,Difficult sleeping,-0.395434627,12-month vs 24-month
+Joint pain,Fatigue,-0.806165015,12-month vs 24-month
+Joint pain,Headache,0.481304978,12-month vs 24-month
+Joint pain,Body aches,0.887515724,12-month vs 24-month
+Joint pain,Difficult breating,0.744999528,12-month vs 24-month
+Joint pain,Loss or alter taste/smell,-0.48151629,12-month vs 24-month
+Joint pain,Joint pain,0.39704713,12-month vs 24-month
+Joint pain,Vertigo/dizzy,-0.217222013,12-month vs 24-month
+Joint pain,Lower vision,-0.791852456,12-month vs 24-month
+Joint pain,Brain fog,0.146712322,12-month vs 24-month
+Joint pain,Hair loss,-0.99350268,12-month vs 24-month
+Joint pain,Gastrointestinal,0.586694296,12-month vs 24-month
+Joint pain,Difficult sleeping,-0.185294766,12-month vs 24-month
+Vertigo/dizzy,Fatigue,0.669343292,12-month vs 24-month
+Vertigo/dizzy,Headache,0.508361147,12-month vs 24-month
+Vertigo/dizzy,Body aches,0.934836667,12-month vs 24-month
+Vertigo/dizzy,Difficult breating,-0.061133674,12-month vs 24-month
+Vertigo/dizzy,Loss or alter taste/smell,-0.314996289,12-month vs 24-month
+Vertigo/dizzy,Joint pain,-0.993732086,12-month vs 24-month
+Vertigo/dizzy,Vertigo/dizzy,0.052755301,12-month vs 24-month
+Vertigo/dizzy,Lower vision,-0.10501793,12-month vs 24-month
+Vertigo/dizzy,Brain fog,0.74483736,12-month vs 24-month
+Vertigo/dizzy,Hair loss,-0.308152199,12-month vs 24-month
+Vertigo/dizzy,Gastrointestinal,-0.960190094,12-month vs 24-month
+Vertigo/dizzy,Difficult sleeping,0.736831165,12-month vs 24-month
+Lower vision,Fatigue,-0.710466085,12-month vs 24-month
+Lower vision,Headache,0.734461853,12-month vs 24-month
+Lower vision,Body aches,-0.874157549,12-month vs 24-month
+Lower vision,Difficult breating,0.155988654,12-month vs 24-month
+Lower vision,Loss or alter taste/smell,-0.914034445,12-month vs 24-month
+Lower vision,Joint pain,0.662336776,12-month vs 24-month
+Lower vision,Vertigo/dizzy,0.442053578,12-month vs 24-month
+Lower vision,Lower vision,0.447189768,12-month vs 24-month
+Lower vision,Brain fog,-0.300875843,12-month vs 24-month
+Lower vision,Hair loss,-0.166077348,12-month vs 24-month
+Lower vision,Gastrointestinal,-0.624047946,12-month vs 24-month
+Lower vision,Difficult sleeping,0.08597724,12-month vs 24-month
+Brain fog,Fatigue,0.080161303,12-month vs 24-month
+Brain fog,Headache,-0.642397298,12-month vs 24-month
+Brain fog,Body aches,0.703078589,12-month vs 24-month
+Brain fog,Difficult breating,-0.785932137,12-month vs 24-month
+Brain fog,Loss or alter taste/smell,-0.422915361,12-month vs 24-month
+Brain fog,Joint pain,0.732373279,12-month vs 24-month
+Brain fog,Vertigo/dizzy,0.983488725,12-month vs 24-month
+Brain fog,Lower vision,0.326305796,12-month vs 24-month
+Brain fog,Brain fog,-0.983257557,12-month vs 24-month
+Brain fog,Hair loss,0.041097848,12-month vs 24-month
+Brain fog,Gastrointestinal,-0.551881749,12-month vs 24-month
+Brain fog,Difficult sleeping,0.20402304,12-month vs 24-month
+Hair loss,Fatigue,0.689482188,12-month vs 24-month
+Hair loss,Headache,-0.079411115,12-month vs 24-month
+Hair loss,Body aches,0.905629067,12-month vs 24-month
+Hair loss,Difficult breating,-0.053835048,12-month vs 24-month
+Hair loss,Loss or alter taste/smell,-0.550684124,12-month vs 24-month
+Hair loss,Joint pain,0.953693763,12-month vs 24-month
+Hair loss,Vertigo/dizzy,-0.677709145,12-month vs 24-month
+Hair loss,Lower vision,0.884539036,12-month vs 24-month
+Hair loss,Brain fog,-0.485497993,12-month vs 24-month
+Hair loss,Hair loss,-0.523634613,12-month vs 24-month
+Hair loss,Gastrointestinal,0.235488988,12-month vs 24-month
+Hair loss,Difficult sleeping,-0.983689974,12-month vs 24-month
+Gastrointestinal,Fatigue,-0.056961001,12-month vs 24-month
+Gastrointestinal,Headache,-0.804586285,12-month vs 24-month
+Gastrointestinal,Body aches,-0.041026407,12-month vs 24-month
+Gastrointestinal,Difficult breating,0.161180866,12-month vs 24-month
+Gastrointestinal,Loss or alter taste/smell,-0.041214164,12-month vs 24-month
+Gastrointestinal,Joint pain,-0.666468218,12-month vs 24-month
+Gastrointestinal,Vertigo/dizzy,-0.996819035,12-month vs 24-month
+Gastrointestinal,Lower vision,-0.227946469,12-month vs 24-month
+Gastrointestinal,Brain fog,0.531837574,12-month vs 24-month
+Gastrointestinal,Hair loss,0.619567043,12-month vs 24-month
+Gastrointestinal,Gastrointestinal,0.859912079,12-month vs 24-month
+Gastrointestinal,Difficult sleeping,-0.356266754,12-month vs 24-month
+Difficult sleeping,Fatigue,0.801358737,12-month vs 24-month
+Difficult sleeping,Headache,0.670934073,12-month vs 24-month
+Difficult sleeping,Body aches,0.065533488,12-month vs 24-month
+Difficult sleeping,Difficult breating,-0.803194393,12-month vs 24-month
+Difficult sleeping,Loss or alter taste/smell,0.263364844,12-month vs 24-month
+Difficult sleeping,Joint pain,-0.904134613,12-month vs 24-month
+Difficult sleeping,Vertigo/dizzy,0.150546024,12-month vs 24-month
+Difficult sleeping,Lower vision,-0.261166283,12-month vs 24-month
+Difficult sleeping,Brain fog,-0.57276384,12-month vs 24-month
+Difficult sleeping,Hair loss,-0.898961308,12-month vs 24-month
+Difficult sleeping,Gastrointestinal,0.658516522,12-month vs 24-month
+Difficult sleeping,Difficult sleeping,0.318303737,12-month vs 24-month

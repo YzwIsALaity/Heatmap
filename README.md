@@ -49,7 +49,7 @@ p_Fatigue <-
         plot.title = element_text(size = 20, hjust = 0.5, face = "bold", color = 'black'))
 p_Fatigue
 ```
-![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Heatmap%20(one%20symptom).jpeg){width=250px}
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Heatmap%20(one%20symptom).jpeg)
 
 
 The above is the heatmap for one symptom (fatigue) and we are going to layout details for the code below:
@@ -167,14 +167,14 @@ grid.arrange(p_Fatigue,
              p_Hair_Loss, 
              layout_matrix = Layout.Mat)
 ```
-![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Heatmap%20(multiple%20symptoms).jpeg){width=1500px}
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Heatmap%20(multiple%20symptoms).jpeg)
 
 It eventually looks like the above one! __Its actual size (width * height) and resolution should be adjusted when you are going to output it from R.__  
 
 # Part 2: Numerical variable
 ## 1. Format of dataset for heatmap
 Similar to the dataset on the first part, the only difference is that this time we are going to fill out __numerical values for tiles__ rather than categorical/nominal values. 
-![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Data%20Shape%20(Aggregated).jpeg){width=1500px}
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Data%20Shape%20(Aggregated).jpeg)
 
 
 This dataset includes 4 variables:
@@ -215,7 +215,7 @@ p_acute_6m <-
         legend.title = element_text(size = 15, hjust = 0.5, face = "bold", color = 'black'))
 p_acute_6m
 ```
-![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Heatmap%20(Aggregated).jpeg){width=1500px}
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Heatmap%20(Aggregated).jpeg)
 
 All __non-data component settings for heatmaps__ in part 2 are the same as the part 1 except the function `scale_fill_gradientn()`. 
 
@@ -299,6 +299,6 @@ grid.arrange(p_acute_6m,
              p_acute_24m, 
              layout_matrix = Layout.Mat)
 ```
-![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Multiple%20Heatmaps%20(Aggregated).jpeg){width=1500px}
+![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Multiple%20Heatmaps%20(Aggregated).jpeg)
 
 Eventually, we get the final one!

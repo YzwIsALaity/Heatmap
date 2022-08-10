@@ -17,9 +17,8 @@ For example, a cohort study recorded a list of symptoms that each participant ex
 
 - `Symptom`: a __list of symptoms in follow-up [10 symptoms: Fatigue, Headache, Muscle Aches, Breathing Difficulties, Loss Taste/Smell, Joint Pain, Vertigo, Lowering Vision,       Brain Fog, Hair Loss]__ (string).
 
-<center>
 ![](https://github.com/YzwIsALaity/Heatmap/blob/2a378e9b043535a679c90e68db6f9b08f6b533a7/Data%20Shape%20(Individual).jpeg)
-</center>
+
 
 In the ggplot, no matter what kind of plots we make, they are basically composed of two parts: X-axis and Y-axis. __Since we want to create a heatmap for the longitudinal reported symptoms, we set X-axis as__ `Month`__, Y-axis as__ `PTID`__, and filled values for tiles in the heatmap with__ `Experienced.Symptom`. Since we have 10 symptoms and each of them were recorded at 3 different timepoints, we need to work on each symptom first and then __arrange them horizontally__. 
 

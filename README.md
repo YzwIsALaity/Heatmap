@@ -1,8 +1,6 @@
----
 title: "Heatmap"
 author: "Yongzhe Wang"
 date: "8/9/2022"
----
 
 This is a short tutorial for making __heatmaps__ in R with __ggplot2__. In general, a heatmap is intended to show a __(numerical) correlation between a pair of features/covariates/variables__ and mostly a __correlation matrix__ will be the input of a heatmap. However, it is possible that we just want to show the __longitudinal change/trend of subjects__ in a heatmap and under this case, the scale in a heatmap will only have few levels (e.g. __Yes/No, High/Median/Low, etc.__). 
 
